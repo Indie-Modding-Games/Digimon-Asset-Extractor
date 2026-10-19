@@ -1,0 +1,33 @@
+# Rust build artifacts
+target/
+Cargo.lock
+
+# Extracted assets (generated)
+assets/
+assets/png/
+assets/audio/
+/Base/
+
+# Test output directories
+test_output/
+test_audio/
+
+# Debug binaries
+debug_*.exe
+debug_*.rs
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Manifest files (generated)
+manifest.json

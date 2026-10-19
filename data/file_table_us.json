@@ -1,0 +1,4092 @@
+[
+  {
+    "filename": "SYSTEM.CNF",
+    "sector": 23,
+    "size": 68
+  },
+  {
+    "filename": "CARD.ALL",
+    "sector": 25,
+    "size": 1892352
+  },
+  {
+    "filename": "ALLTIM.TIM",
+    "sector": 950,
+    "size": 3317760
+  },
+  {
+    "filename": "AGUM.MMD",
+    "sector": 2571,
+    "size": 72012
+  },
+  {
+    "filename": "AIRD.MMD",
+    "sector": 2607,
+    "size": 71408
+  },
+  {
+    "filename": "ANGE.MMD",
+    "sector": 2642,
+    "size": 91328
+  },
+  {
+    "filename": "BETA.MMD",
+    "sector": 2687,
+    "size": 65948
+  },
+  {
+    "filename": "BIRD.MMD",
+    "sector": 2720,
+    "size": 84644
+  },
+  {
+    "filename": "BOTA.MMD",
+    "sector": 2762,
+    "size": 22092
+  },
+  {
+    "filename": "BOYS.MMD",
+    "sector": 2773,
+    "size": 57036
+  },
+  {
+    "filename": "DEVI.MMD",
+    "sector": 2801,
+    "size": 88448
+  },
+  {
+    "filename": "ELEC.MMD",
+    "sector": 2845,
+    "size": 80868
+  },
+  {
+    "filename": "GABU.MMD",
+    "sector": 2885,
+    "size": 72456
+  },
+  {
+    "filename": "GARU.MMD",
+    "sector": 2921,
+    "size": 95812
+  },
+  {
+    "filename": "GREY.MMD",
+    "sector": 2968,
+    "size": 93408
+  },
+  {
+    "filename": "HOEE.MMD",
+    "sector": 3014,
+    "size": 39716
+  },
+  {
+    "filename": "KABU.MMD",
+    "sector": 3034,
+    "size": 96284
+  },
+  {
+    "filename": "KORO.MMD",
+    "sector": 3082,
+    "size": 22904
+  },
+  {
+    "filename": "MAME.MMD",
+    "sector": 3094,
+    "size": 82536
+  },
+  {
+    "filename": "MERA.MMD",
+    "sector": 3135,
+    "size": 87824
+  },
+  {
+    "filename": "MONZ.MMD",
+    "sector": 3178,
+    "size": 52216
+  },
+  {
+    "filename": "MTGR.MMD",
+    "sector": 3204,
+    "size": 89824
+  },
+  {
+    "filename": "MTMA.MMD",
+    "sector": 3248,
+    "size": 91676
+  },
+  {
+    "filename": "NUME.MMD",
+    "sector": 3293,
+    "size": 84928
+  },
+  {
+    "filename": "POYO.MMD",
+    "sector": 3335,
+    "size": 20232
+  },
+  {
+    "filename": "PUNI.MMD",
+    "sector": 3345,
+    "size": 21932
+  },
+  {
+    "filename": "SEAD.MMD",
+    "sector": 3356,
+    "size": 62544
+  },
+  {
+    "filename": "SKUL.MMD",
+    "sector": 3387,
+    "size": 85384
+  },
+  {
+    "filename": "TUNO.MMD",
+    "sector": 3429,
+    "size": 14984
+  },
+  {
+    "filename": "TYRA.MMD",
+    "sector": 3437,
+    "size": 89428
+  },
+  {
+    "filename": "VEDA.MMD",
+    "sector": 3481,
+    "size": 54304
+  },
+  {
+    "filename": "VEGI.MMD",
+    "sector": 3508,
+    "size": 62044
+  },
+  {
+    "filename": "YUKI.MMD",
+    "sector": 3539,
+    "size": 62496
+  },
+  {
+    "filename": "ANDR.MMD",
+    "sector": 3571,
+    "size": 89952
+  },
+  {
+    "filename": "BAKE.MMD",
+    "sector": 3615,
+    "size": 84612
+  },
+  {
+    "filename": "CENT.MMD",
+    "sector": 3657,
+    "size": 96152
+  },
+  {
+    "filename": "COCA.MMD",
+    "sector": 3704,
+    "size": 95404
+  },
+  {
+    "filename": "DIGI.MMD",
+    "sector": 3751,
+    "size": 85652
+  },
+  {
+    "filename": "DORI.MMD",
+    "sector": 3793,
+    "size": 88508
+  },
+  {
+    "filename": "ETEM.MMD",
+    "sector": 3837,
+    "size": 97812
+  },
+  {
+    "filename": "GIRO.MMD",
+    "sector": 3885,
+    "size": 50220
+  },
+  {
+    "filename": "HOUO.MMD",
+    "sector": 3910,
+    "size": 97496
+  },
+  {
+    "filename": "IGAM.MMD",
+    "sector": 3958,
+    "size": 81316
+  },
+  {
+    "filename": "KUNE.MMD",
+    "sector": 3998,
+    "size": 78064
+  },
+  {
+    "filename": "KUWA.MMD",
+    "sector": 4037,
+    "size": 96344
+  },
+  {
+    "filename": "LEOM.MMD",
+    "sector": 4085,
+    "size": 85908
+  },
+  {
+    "filename": "MGDR.MMD",
+    "sector": 4127,
+    "size": 75436
+  },
+  {
+    "filename": "MOJA.MMD",
+    "sector": 4164,
+    "size": 87720
+  },
+  {
+    "filename": "MONO.MMD",
+    "sector": 4207,
+    "size": 96220
+  },
+  {
+    "filename": "NANI.MMD",
+    "sector": 4254,
+    "size": 75328
+  },
+  {
+    "filename": "OGRE.MMD",
+    "sector": 4291,
+    "size": 75628
+  },
+  {
+    "filename": "PALM.MMD",
+    "sector": 4328,
+    "size": 70356
+  },
+  {
+    "filename": "PATA.MMD",
+    "sector": 4363,
+    "size": 84296
+  },
+  {
+    "filename": "PENM.MMD",
+    "sector": 4405,
+    "size": 86248
+  },
+  {
+    "filename": "PICC.MMD",
+    "sector": 4448,
+    "size": 76944
+  },
+  {
+    "filename": "PIYO.MMD",
+    "sector": 4486,
+    "size": 79840
+  },
+  {
+    "filename": "SCUM.MMD",
+    "sector": 4525,
+    "size": 70080
+  },
+  {
+    "filename": "SHEL.MMD",
+    "sector": 4560,
+    "size": 64968
+  },
+  {
+    "filename": "SIRA.MMD",
+    "sector": 4592,
+    "size": 85136
+  },
+  {
+    "filename": "TANE.MMD",
+    "sector": 4634,
+    "size": 42396
+  },
+  {
+    "filename": "TOKO.MMD",
+    "sector": 4655,
+    "size": 34192
+  },
+  {
+    "filename": "UNIM.MMD",
+    "sector": 4672,
+    "size": 90732
+  },
+  {
+    "filename": "YURA.MMD",
+    "sector": 4717,
+    "size": 24104
+  },
+  {
+    "filename": "ARUR.MMD",
+    "sector": 4730,
+    "size": 44712
+  },
+  {
+    "filename": "DOKU.MMD",
+    "sector": 4752,
+    "size": 44400
+  },
+  {
+    "filename": "FLAR.MMD",
+    "sector": 4774,
+    "size": 47888
+  },
+  {
+    "filename": "FUGA.MMD",
+    "sector": 4798,
+    "size": 45368
+  },
+  {
+    "filename": "GERE.MMD",
+    "sector": 4821,
+    "size": 51912
+  },
+  {
+    "filename": "GGDR.MMD",
+    "sector": 4847,
+    "size": 74796
+  },
+  {
+    "filename": "GOBR.MMD",
+    "sector": 4884,
+    "size": 55620
+  },
+  {
+    "filename": "GOTU.MMD",
+    "sector": 4912,
+    "size": 40976
+  },
+  {
+    "filename": "HKAB.MMD",
+    "sector": 4933,
+    "size": 95960
+  },
+  {
+    "filename": "HYOG.MMD",
+    "sector": 4980,
+    "size": 47352
+  },
+  {
+    "filename": "JMOJ.MMD",
+    "sector": 5004,
+    "size": 44316
+  },
+  {
+    "filename": "MGSD.MMD",
+    "sector": 5026,
+    "size": 65676
+  },
+  {
+    "filename": "MODO.MMD",
+    "sector": 5059,
+    "size": 40728
+  },
+  {
+    "filename": "MTET.MMD",
+    "sector": 5079,
+    "size": 96604
+  },
+  {
+    "filename": "NISE.MMD",
+    "sector": 5127,
+    "size": 49928
+  },
+  {
+    "filename": "PANJ.MMD",
+    "sector": 5152,
+    "size": 81588
+  },
+  {
+    "filename": "PCSC.MMD",
+    "sector": 5192,
+    "size": 42320
+  },
+  {
+    "filename": "PIDD.MMD",
+    "sector": 5213,
+    "size": 56428
+  },
+  {
+    "filename": "PSYC.MMD",
+    "sector": 5241,
+    "size": 42228
+  },
+  {
+    "filename": "REDV.MMD",
+    "sector": 5262,
+    "size": 39752
+  },
+  {
+    "filename": "SIMA.MMD",
+    "sector": 5282,
+    "size": 52924
+  },
+  {
+    "filename": "TANK.MMD",
+    "sector": 5308,
+    "size": 40084
+  },
+  {
+    "filename": "TOYA.MMD",
+    "sector": 5328,
+    "size": 44944
+  },
+  {
+    "filename": "TUTI.MMD",
+    "sector": 5350,
+    "size": 37544
+  },
+  {
+    "filename": "VAND.MMD",
+    "sector": 5369,
+    "size": 65772
+  },
+  {
+    "filename": "VARM.MMD",
+    "sector": 5402,
+    "size": 54656
+  },
+  {
+    "filename": "WARU.MMD",
+    "sector": 5429,
+    "size": 40896
+  },
+  {
+    "filename": "YANM.MMD",
+    "sector": 5449,
+    "size": 66320
+  },
+  {
+    "filename": "YKAG.MMD",
+    "sector": 5482,
+    "size": 43176
+  },
+  {
+    "filename": "AKAT.MMD",
+    "sector": 5505,
+    "size": 54304
+  },
+  {
+    "filename": "ANLG.MMD",
+    "sector": 5532,
+    "size": 22096
+  },
+  {
+    "filename": "BLMR.MMD",
+    "sector": 5543,
+    "size": 45404
+  },
+  {
+    "filename": "CLEA.MMD",
+    "sector": 5566,
+    "size": 44944
+  },
+  {
+    "filename": "DKRZ.MMD",
+    "sector": 5588,
+    "size": 45940
+  },
+  {
+    "filename": "GARD.MMD",
+    "sector": 5611,
+    "size": 55800
+  },
+  {
+    "filename": "GECO.MMD",
+    "sector": 5639,
+    "size": 53408
+  },
+  {
+    "filename": "GOLE.MMD",
+    "sector": 5666,
+    "size": 44472
+  },
+  {
+    "filename": "GRUR.MMD",
+    "sector": 5688,
+    "size": 56720
+  },
+  {
+    "filename": "ICDV.MMD",
+    "sector": 5716,
+    "size": 48864
+  },
+  {
+    "filename": "ICEM.MMD",
+    "sector": 5740,
+    "size": 38972
+  },
+  {
+    "filename": "INSE.MMD",
+    "sector": 5760,
+    "size": 49572
+  },
+  {
+    "filename": "JIJI.MMD",
+    "sector": 5785,
+    "size": 33176
+  },
+  {
+    "filename": "MCHO.MMD",
+    "sector": 5802,
+    "size": 44752
+  },
+  {
+    "filename": "MRIS.MMD",
+    "sector": 5824,
+    "size": 40076
+  },
+  {
+    "filename": "MUGE.MMD",
+    "sector": 5844,
+    "size": 78588
+  },
+  {
+    "filename": "OTAM.MMD",
+    "sector": 5883,
+    "size": 37856
+  },
+  {
+    "filename": "SABD.MMD",
+    "sector": 5902,
+    "size": 44672
+  },
+  {
+    "filename": "SHAM.MMD",
+    "sector": 5924,
+    "size": 45572
+  },
+  {
+    "filename": "SNDY.MMD",
+    "sector": 5947,
+    "size": 61456
+  },
+  {
+    "filename": "SNGB.MMD",
+    "sector": 5978,
+    "size": 48332
+  },
+  {
+    "filename": "SOUL.MMD",
+    "sector": 6002,
+    "size": 49340
+  },
+  {
+    "filename": "TENS.MMD",
+    "sector": 6027,
+    "size": 27764
+  },
+  {
+    "filename": "TENT.MMD",
+    "sector": 6041,
+    "size": 56724
+  },
+  {
+    "filename": "TKKA.MMD",
+    "sector": 6069,
+    "size": 21888
+  },
+  {
+    "filename": "TONO.MMD",
+    "sector": 6080,
+    "size": 53124
+  },
+  {
+    "filename": "TUKA.MMD",
+    "sector": 6106,
+    "size": 49832
+  },
+  {
+    "filename": "WRSE.MMD",
+    "sector": 6131,
+    "size": 38740
+  },
+  {
+    "filename": "ZASS.MMD",
+    "sector": 6150,
+    "size": 39752
+  },
+  {
+    "filename": "BRAK.MMD",
+    "sector": 6171,
+    "size": 28040
+  },
+  {
+    "filename": "BRIK.MMD",
+    "sector": 6185,
+    "size": 17672
+  },
+  {
+    "filename": "EAIR.MMD",
+    "sector": 6194,
+    "size": 41564
+  },
+  {
+    "filename": "EANG.MMD",
+    "sector": 6215,
+    "size": 39476
+  },
+  {
+    "filename": "EBET.MMD",
+    "sector": 6235,
+    "size": 46800
+  },
+  {
+    "filename": "EBIR.MMD",
+    "sector": 6258,
+    "size": 50444
+  },
+  {
+    "filename": "EDEV.MMD",
+    "sector": 6283,
+    "size": 54856
+  },
+  {
+    "filename": "EELE.MMD",
+    "sector": 6310,
+    "size": 33576
+  },
+  {
+    "filename": "EGAB.MMD",
+    "sector": 6327,
+    "size": 42264
+  },
+  {
+    "filename": "EGAR.MMD",
+    "sector": 6348,
+    "size": 55264
+  },
+  {
+    "filename": "EGOB.MMD",
+    "sector": 6375,
+    "size": 31828
+  },
+  {
+    "filename": "EGRE.MMD",
+    "sector": 6391,
+    "size": 51948
+  },
+  {
+    "filename": "EHOE.MMD",
+    "sector": 6417,
+    "size": 16868
+  },
+  {
+    "filename": "EKAB.MMD",
+    "sector": 6426,
+    "size": 65760
+  },
+  {
+    "filename": "EMAM.MMD",
+    "sector": 6459,
+    "size": 47928
+  },
+  {
+    "filename": "EMER.MMD",
+    "sector": 6483,
+    "size": 50508
+  },
+  {
+    "filename": "EMON.MMD",
+    "sector": 6508,
+    "size": 17424
+  },
+  {
+    "filename": "EMTG.MMD",
+    "sector": 6517,
+    "size": 59040
+  },
+  {
+    "filename": "EMTM.MMD",
+    "sector": 6546,
+    "size": 54220
+  },
+  {
+    "filename": "ENUM.MMD",
+    "sector": 6573,
+    "size": 56376
+  },
+  {
+    "filename": "ESEA.MMD",
+    "sector": 6601,
+    "size": 21956
+  },
+  {
+    "filename": "ESKU.MMD",
+    "sector": 6612,
+    "size": 50752
+  },
+  {
+    "filename": "ETYR.MMD",
+    "sector": 6637,
+    "size": 55112
+  },
+  {
+    "filename": "EVEG.MMD",
+    "sector": 6664,
+    "size": 24216
+  },
+  {
+    "filename": "EYUK.MMD",
+    "sector": 6676,
+    "size": 25040
+  },
+  {
+    "filename": "HAGU.MMD",
+    "sector": 6689,
+    "size": 16292
+  },
+  {
+    "filename": "JURE.MMD",
+    "sector": 6697,
+    "size": 30044
+  },
+  {
+    "filename": "PUTI.MMD",
+    "sector": 6712,
+    "size": 8148
+  },
+  {
+    "filename": "SCUD.MMD",
+    "sector": 6716,
+    "size": 29824
+  },
+  {
+    "filename": "TIRS.MMD",
+    "sector": 6731,
+    "size": 25544
+  },
+  {
+    "filename": "CEGR.MMD",
+    "sector": 6745,
+    "size": 24740
+  },
+  {
+    "filename": "CEMG.MMD",
+    "sector": 6758,
+    "size": 28824
+  },
+  {
+    "filename": "EAND.MMD",
+    "sector": 6773,
+    "size": 31764
+  },
+  {
+    "filename": "EBAK.MMD",
+    "sector": 6789,
+    "size": 26188
+  },
+  {
+    "filename": "ECEN.MMD",
+    "sector": 6802,
+    "size": 25996
+  },
+  {
+    "filename": "ECOC.MMD",
+    "sector": 6815,
+    "size": 59688
+  },
+  {
+    "filename": "EDIG.MMD",
+    "sector": 6845,
+    "size": 45260
+  },
+  {
+    "filename": "EDOR.MMD",
+    "sector": 6868,
+    "size": 63380
+  },
+  {
+    "filename": "EETE.MMD",
+    "sector": 6899,
+    "size": 60656
+  },
+  {
+    "filename": "EGIR.MMD",
+    "sector": 6929,
+    "size": 30500
+  },
+  {
+    "filename": "EIGA.MMD",
+    "sector": 6944,
+    "size": 49012
+  },
+  {
+    "filename": "EKUN.MMD",
+    "sector": 6968,
+    "size": 55740
+  },
+  {
+    "filename": "EKUW.MMD",
+    "sector": 6996,
+    "size": 37104
+  },
+  {
+    "filename": "ELEO.MMD",
+    "sector": 7015,
+    "size": 41316
+  },
+  {
+    "filename": "EMGD.MMD",
+    "sector": 7036,
+    "size": 45440
+  },
+  {
+    "filename": "EMNO.MMD",
+    "sector": 7059,
+    "size": 32596
+  },
+  {
+    "filename": "EMOJ.MMD",
+    "sector": 7075,
+    "size": 32572
+  },
+  {
+    "filename": "ENAN.MMD",
+    "sector": 7091,
+    "size": 24408
+  },
+  {
+    "filename": "EOGR.MMD",
+    "sector": 7103,
+    "size": 59220
+  },
+  {
+    "filename": "EPAL.MMD",
+    "sector": 7132,
+    "size": 48176
+  },
+  {
+    "filename": "EPAT.MMD",
+    "sector": 7156,
+    "size": 54036
+  },
+  {
+    "filename": "EPEN.MMD",
+    "sector": 7183,
+    "size": 30164
+  },
+  {
+    "filename": "EPIC.MMD",
+    "sector": 7198,
+    "size": 42824
+  },
+  {
+    "filename": "EPIY.MMD",
+    "sector": 7219,
+    "size": 24788
+  },
+  {
+    "filename": "ESCU.MMD",
+    "sector": 7232,
+    "size": 28012
+  },
+  {
+    "filename": "ESHE.MMD",
+    "sector": 7246,
+    "size": 30056
+  },
+  {
+    "filename": "ESIR.MMD",
+    "sector": 7261,
+    "size": 32996
+  },
+  {
+    "filename": "EUNI.MMD",
+    "sector": 7278,
+    "size": 27276
+  },
+  {
+    "filename": "EVAN.MMD",
+    "sector": 7292,
+    "size": 35148
+  },
+  {
+    "filename": "EVED.MMD",
+    "sector": 7310,
+    "size": 21804
+  },
+  {
+    "filename": "DOOR00.TMD",
+    "sector": 7323,
+    "size": 344
+  },
+  {
+    "filename": "DOOR01.TMD",
+    "sector": 7324,
+    "size": 344
+  },
+  {
+    "filename": "DOOR02.TMD",
+    "sector": 7325,
+    "size": 344
+  },
+  {
+    "filename": "DOOR03.TMD",
+    "sector": 7326,
+    "size": 344
+  },
+  {
+    "filename": "DOOR04.TMD",
+    "sector": 7327,
+    "size": 728
+  },
+  {
+    "filename": "DOOR05.TMD",
+    "sector": 7328,
+    "size": 344
+  },
+  {
+    "filename": "DOOR06.TMD",
+    "sector": 7329,
+    "size": 728
+  },
+  {
+    "filename": "DOOR07.TMD",
+    "sector": 7330,
+    "size": 344
+  },
+  {
+    "filename": "DOOR08.TMD",
+    "sector": 7331,
+    "size": 344
+  },
+  {
+    "filename": "DOOR09.TMD",
+    "sector": 7332,
+    "size": 344
+  },
+  {
+    "filename": "DOOR10.TMD",
+    "sector": 7333,
+    "size": 344
+  },
+  {
+    "filename": "DOOR11.TMD",
+    "sector": 7334,
+    "size": 344
+  },
+  {
+    "filename": "DOOR12.TMD",
+    "sector": 7335,
+    "size": 344
+  },
+  {
+    "filename": "DOOR13.TMD",
+    "sector": 7336,
+    "size": 344
+  },
+  {
+    "filename": "DOOR14.TMD",
+    "sector": 7337,
+    "size": 344
+  },
+  {
+    "filename": "DOOR15.TMD",
+    "sector": 7338,
+    "size": 344
+  },
+  {
+    "filename": "DOOR16.TMD",
+    "sector": 7339,
+    "size": 344
+  },
+  {
+    "filename": "DOOR17.TMD",
+    "sector": 7340,
+    "size": 344
+  },
+  {
+    "filename": "DOOR18.TMD",
+    "sector": 7341,
+    "size": 344
+  },
+  {
+    "filename": "DOOR19.TMD",
+    "sector": 7342,
+    "size": 344
+  },
+  {
+    "filename": "DOOR20.TMD",
+    "sector": 7343,
+    "size": 344
+  },
+  {
+    "filename": "DOOR21.TMD",
+    "sector": 7344,
+    "size": 344
+  },
+  {
+    "filename": "DOOR22.TMD",
+    "sector": 7345,
+    "size": 344
+  },
+  {
+    "filename": "DOOR23.TMD",
+    "sector": 7346,
+    "size": 344
+  },
+  {
+    "filename": "DOOR24.TMD",
+    "sector": 7347,
+    "size": 344
+  },
+  {
+    "filename": "DOOR25.TMD",
+    "sector": 7348,
+    "size": 344
+  },
+  {
+    "filename": "DOOR26.TMD",
+    "sector": 7349,
+    "size": 3472
+  },
+  {
+    "filename": "DOOR27.TMD",
+    "sector": 7351,
+    "size": 1756
+  },
+  {
+    "filename": "DOOR28.TMD",
+    "sector": 7352,
+    "size": 1756
+  },
+  {
+    "filename": "DOOR29.TMD",
+    "sector": 7353,
+    "size": 344
+  },
+  {
+    "filename": "DOOR30.TMD",
+    "sector": 7354,
+    "size": 344
+  },
+  {
+    "filename": "DOOR31.TMD",
+    "sector": 7355,
+    "size": 344
+  },
+  {
+    "filename": "DOOR32.TMD",
+    "sector": 7356,
+    "size": 344
+  },
+  {
+    "filename": "BI\\_IN.TIM",
+    "sector": 7358,
+    "size": 8736
+  },
+  {
+    "filename": "BTLCOMND.TIM",
+    "sector": 7363,
+    "size": 8736
+  },
+  {
+    "filename": "DEFEFF.TIM",
+    "sector": 7368,
+    "size": 6336
+  },
+  {
+    "filename": "DEFEFF.TMD",
+    "sector": 7372,
+    "size": 6464
+  },
+  {
+    "filename": "ETCTIM.BIN",
+    "sector": 7376,
+    "size": 125632
+  },
+  {
+    "filename": "EX.TIM",
+    "sector": 7438,
+    "size": 3360
+  },
+  {
+    "filename": "EX.TMD",
+    "sector": 7440,
+    "size": 4152
+  },
+  {
+    "filename": "FEEL\\_EF.TIM",
+    "sector": 7443,
+    "size": 8736
+  },
+  {
+    "filename": "FEEL\\_EF.TMD",
+    "sector": 7448,
+    "size": 1224
+  },
+  {
+    "filename": "FISHING.TIM",
+    "sector": 7449,
+    "size": 15264
+  },
+  {
+    "filename": "FISHING2.TIM",
+    "sector": 7457,
+    "size": 15264
+  },
+  {
+    "filename": "FI\\_INFO.TIM",
+    "sector": 7465,
+    "size": 8736
+  },
+  {
+    "filename": "ITEM.TIM",
+    "sector": 7470,
+    "size": 17184
+  },
+  {
+    "filename": "KARRING.TMD",
+    "sector": 7479,
+    "size": 27828
+  },
+  {
+    "filename": "SAO.TMD",
+    "sector": 7493,
+    "size": 1660
+  },
+  {
+    "filename": "SBOY.TIM",
+    "sector": 7494,
+    "size": 33312
+  },
+  {
+    "filename": "SEA.TMD",
+    "sector": 7511,
+    "size": 1720
+  },
+  {
+    "filename": "SLOT.TIM",
+    "sector": 7512,
+    "size": 4192
+  },
+  {
+    "filename": "SPOT256.TIM",
+    "sector": 7515,
+    "size": 16928
+  },
+  {
+    "filename": "SYSTEM\\_W.TIM",
+    "sector": 7524,
+    "size": 16928
+  },
+  {
+    "filename": "TAMA.TIM",
+    "sector": 7533,
+    "size": 10784
+  },
+  {
+    "filename": "TAMA.TMD",
+    "sector": 7539,
+    "size": 38892
+  },
+  {
+    "filename": "BOSS\\_EFE.TMD",
+    "sector": 7559,
+    "size": 616
+  },
+  {
+    "filename": "EFEDAT.EFE",
+    "sector": 7560,
+    "size": 2498560
+  },
+  {
+    "filename": "LIFE.TIM",
+    "sector": 8780,
+    "size": 1408
+  },
+  {
+    "filename": "MAHI.TMD",
+    "sector": 8781,
+    "size": 1576
+  },
+  {
+    "filename": "OP.TIM",
+    "sector": 8782,
+    "size": 13568
+  },
+  {
+    "filename": "ABOX.TMD",
+    "sector": 8790,
+    "size": 304
+  },
+  {
+    "filename": "BIGBOX.TMD",
+    "sector": 8791,
+    "size": 596
+  },
+  {
+    "filename": "DOOR.TMD",
+    "sector": 8792,
+    "size": 344
+  },
+  {
+    "filename": "DOSYA.TMD",
+    "sector": 8793,
+    "size": 912
+  },
+  {
+    "filename": "GAND.TMD",
+    "sector": 8794,
+    "size": 4516
+  },
+  {
+    "filename": "HAKO.TMD",
+    "sector": 8797,
+    "size": 728
+  },
+  {
+    "filename": "IWA.TMD",
+    "sector": 8798,
+    "size": 3080
+  },
+  {
+    "filename": "IWA1.TIM",
+    "sector": 8800,
+    "size": 576
+  },
+  {
+    "filename": "MEDAL.TMD",
+    "sector": 8801,
+    "size": 1408
+  },
+  {
+    "filename": "SMABOX.TMD",
+    "sector": 8802,
+    "size": 596
+  },
+  {
+    "filename": "TAKA.TIM",
+    "sector": 8803,
+    "size": 3520
+  },
+  {
+    "filename": "TAKA.TMD",
+    "sector": 8805,
+    "size": 720
+  },
+  {
+    "filename": "TITLE2.TIM",
+    "sector": 8806,
+    "size": 77344
+  },
+  {
+    "filename": "TITLE256.TIM",
+    "sector": 8844,
+    "size": 82464
+  },
+  {
+    "filename": "TRY.TMD",
+    "sector": 8885,
+    "size": 2888
+  },
+  {
+    "filename": "T\\_YAMA.TMD",
+    "sector": 8887,
+    "size": 1152
+  },
+  {
+    "filename": "UNTI.TMD",
+    "sector": 8888,
+    "size": 508
+  },
+  {
+    "filename": "WARP.TMD",
+    "sector": 8889,
+    "size": 884
+  },
+  {
+    "filename": "MAYO01.MAP",
+    "sector": 8892,
+    "size": 177964
+  },
+  {
+    "filename": "MAYO01.TFS",
+    "sector": 8979,
+    "size": 493184
+  },
+  {
+    "filename": "MAYO02.MAP",
+    "sector": 9220,
+    "size": 143584
+  },
+  {
+    "filename": "MAYO02.TFS",
+    "sector": 9291,
+    "size": 460408
+  },
+  {
+    "filename": "MAYO03.MAP",
+    "sector": 9516,
+    "size": 144562
+  },
+  {
+    "filename": "MAYO03.TFS",
+    "sector": 9587,
+    "size": 493184
+  },
+  {
+    "filename": "MAYO04A.MAP",
+    "sector": 9828,
+    "size": 209520
+  },
+  {
+    "filename": "MAYO04A.TFS",
+    "sector": 9931,
+    "size": 493184
+  },
+  {
+    "filename": "MAYO04B.MAP",
+    "sector": 10172,
+    "size": 210570
+  },
+  {
+    "filename": "MAYO04B.TFS",
+    "sector": 10275,
+    "size": 493184
+  },
+  {
+    "filename": "MAYO05.MAP",
+    "sector": 10516,
+    "size": 180100
+  },
+  {
+    "filename": "MAYO05.TFS",
+    "sector": 10604,
+    "size": 247364
+  },
+  {
+    "filename": "MAYO06.MAP",
+    "sector": 10725,
+    "size": 178818
+  },
+  {
+    "filename": "MAYO06.TFS",
+    "sector": 10813,
+    "size": 329304
+  },
+  {
+    "filename": "MAYO08A.MAP",
+    "sector": 10974,
+    "size": 213370
+  },
+  {
+    "filename": "MAYO08A.TFS",
+    "sector": 11079,
+    "size": 493184
+  },
+  {
+    "filename": "MAYO08B.MAP",
+    "sector": 11320,
+    "size": 213574
+  },
+  {
+    "filename": "MAYO08B.TFS",
+    "sector": 11425,
+    "size": 493184
+  },
+  {
+    "filename": "MAYO10.MAP",
+    "sector": 11666,
+    "size": 234178
+  },
+  {
+    "filename": "MAYO10.TFS",
+    "sector": 11781,
+    "size": 378468
+  },
+  {
+    "filename": "MAYO11.MAP",
+    "sector": 11966,
+    "size": 176436
+  },
+  {
+    "filename": "MAYO11.TFS",
+    "sector": 12053,
+    "size": 493184
+  },
+  {
+    "filename": "TROP00.MAP",
+    "sector": 12294,
+    "size": 77214
+  },
+  {
+    "filename": "TROP00.TFS",
+    "sector": 12332,
+    "size": 247364
+  },
+  {
+    "filename": "TROP01.MAP",
+    "sector": 12453,
+    "size": 77638
+  },
+  {
+    "filename": "TROP01.TFS",
+    "sector": 12491,
+    "size": 394856
+  },
+  {
+    "filename": "TROP02.MAP",
+    "sector": 12684,
+    "size": 210914
+  },
+  {
+    "filename": "TROP02.TFS",
+    "sector": 12787,
+    "size": 493184
+  },
+  {
+    "filename": "TROP03.MAP",
+    "sector": 13028,
+    "size": 180670
+  },
+  {
+    "filename": "TROP03.TFS",
+    "sector": 13117,
+    "size": 460408
+  },
+  {
+    "filename": "FRZL16.MAP",
+    "sector": 13343,
+    "size": 111562
+  },
+  {
+    "filename": "FRZL16.TFS",
+    "sector": 13398,
+    "size": 493184
+  },
+  {
+    "filename": "FRZL17.MAP",
+    "sector": 13639,
+    "size": 155422
+  },
+  {
+    "filename": "FRZL17.TFS",
+    "sector": 13715,
+    "size": 246340
+  },
+  {
+    "filename": "FRZL18.MAP",
+    "sector": 13836,
+    "size": 207844
+  },
+  {
+    "filename": "FRZL18.TFS",
+    "sector": 13938,
+    "size": 98848
+  },
+  {
+    "filename": "GKYO01.MAP",
+    "sector": 13987,
+    "size": 210058
+  },
+  {
+    "filename": "GKYO01.TFS",
+    "sector": 14090,
+    "size": 460408
+  },
+  {
+    "filename": "GKYO02.MAP",
+    "sector": 14315,
+    "size": 76986
+  },
+  {
+    "filename": "GKYO02.TFS",
+    "sector": 14353,
+    "size": 328280
+  },
+  {
+    "filename": "OGRE10.MAP",
+    "sector": 14514,
+    "size": 213296
+  },
+  {
+    "filename": "OGRE10.TFS",
+    "sector": 14619,
+    "size": 246340
+  },
+  {
+    "filename": "OGRE11.MAP",
+    "sector": 14740,
+    "size": 138954
+  },
+  {
+    "filename": "OGRE11.TFS",
+    "sector": 14808,
+    "size": 246340
+  },
+  {
+    "filename": "OMOC01.MAP",
+    "sector": 14929,
+    "size": 211356
+  },
+  {
+    "filename": "OMOC01.TFS",
+    "sector": 15033,
+    "size": 493184
+  },
+  {
+    "filename": "OMOC02.MAP",
+    "sector": 15274,
+    "size": 143248
+  },
+  {
+    "filename": "OMOC02.TFS",
+    "sector": 15344,
+    "size": 328280
+  },
+  {
+    "filename": "OMOC03.MAP",
+    "sector": 15505,
+    "size": 188454
+  },
+  {
+    "filename": "OMOC03.TFS",
+    "sector": 15598,
+    "size": 492160
+  },
+  {
+    "filename": "OMOC04.MAP",
+    "sector": 15839,
+    "size": 109966
+  },
+  {
+    "filename": "OMOC04.TFS",
+    "sector": 15893,
+    "size": 197176
+  },
+  {
+    "filename": "OMOC05.MAP",
+    "sector": 15990,
+    "size": 112938
+  },
+  {
+    "filename": "OMOC05.TFS",
+    "sector": 16046,
+    "size": 98848
+  },
+  {
+    "filename": "OMOC06.MAP",
+    "sector": 16095,
+    "size": 178940
+  },
+  {
+    "filename": "OMOC06.TFS",
+    "sector": 16183,
+    "size": 131624
+  },
+  {
+    "filename": "STIC01.MAP",
+    "sector": 16248,
+    "size": 144346
+  },
+  {
+    "filename": "STIC01.TFS",
+    "sector": 16319,
+    "size": 493184
+  },
+  {
+    "filename": "STIC02.MAP",
+    "sector": 16560,
+    "size": 144906
+  },
+  {
+    "filename": "STIC02.TFS",
+    "sector": 16631,
+    "size": 493184
+  },
+  {
+    "filename": "FACT01.MAP",
+    "sector": 16873,
+    "size": 241644
+  },
+  {
+    "filename": "FACT01.TFS",
+    "sector": 16991,
+    "size": 460408
+  },
+  {
+    "filename": "FACT02.MAP",
+    "sector": 17216,
+    "size": 209556
+  },
+  {
+    "filename": "FACT02.TFS",
+    "sector": 17319,
+    "size": 493184
+  },
+  {
+    "filename": "FACT03.MAP",
+    "sector": 17560,
+    "size": 210194
+  },
+  {
+    "filename": "FACT03.TFS",
+    "sector": 17663,
+    "size": 493184
+  },
+  {
+    "filename": "FACT04.MAP",
+    "sector": 17904,
+    "size": 208440
+  },
+  {
+    "filename": "FACT04.TFS",
+    "sector": 18006,
+    "size": 247364
+  },
+  {
+    "filename": "FACT05.MAP",
+    "sector": 18127,
+    "size": 207878
+  },
+  {
+    "filename": "FACT05.TFS",
+    "sector": 18229,
+    "size": 149036
+  },
+  {
+    "filename": "FACT06.MAP",
+    "sector": 18302,
+    "size": 109318
+  },
+  {
+    "filename": "FACT06.TFS",
+    "sector": 18356,
+    "size": 262728
+  },
+  {
+    "filename": "FACT07.MAP",
+    "sector": 18485,
+    "size": 110122
+  },
+  {
+    "filename": "FACT07.TFS",
+    "sector": 18539,
+    "size": 492160
+  },
+  {
+    "filename": "FACT08A.MAP",
+    "sector": 18780,
+    "size": 76924
+  },
+  {
+    "filename": "FACT08A.TFS",
+    "sector": 18818,
+    "size": 492160
+  },
+  {
+    "filename": "FACT08B.MAP",
+    "sector": 19059,
+    "size": 185582
+  },
+  {
+    "filename": "FACT08B.TFS",
+    "sector": 19150,
+    "size": 492160
+  },
+  {
+    "filename": "FACT09.MAP",
+    "sector": 19391,
+    "size": 10980
+  },
+  {
+    "filename": "FACT09.TFS",
+    "sector": 19397,
+    "size": 459384
+  },
+  {
+    "filename": "FACT10.MAP",
+    "sector": 19622,
+    "size": 76840
+  },
+  {
+    "filename": "FACT10.TFS",
+    "sector": 19660,
+    "size": 328280
+  },
+  {
+    "filename": "FACT11A.MAP",
+    "sector": 19821,
+    "size": 168816
+  },
+  {
+    "filename": "FACT11A.TFS",
+    "sector": 19904,
+    "size": 459384
+  },
+  {
+    "filename": "GOMI01.MAP",
+    "sector": 20129,
+    "size": 144404
+  },
+  {
+    "filename": "GOMI01.TFS",
+    "sector": 20200,
+    "size": 493184
+  },
+  {
+    "filename": "OMOC07.MAP",
+    "sector": 20441,
+    "size": 113050
+  },
+  {
+    "filename": "OMOC07.TFS",
+    "sector": 20497,
+    "size": 98848
+  },
+  {
+    "filename": "OMOC08.MAP",
+    "sector": 20546,
+    "size": 146360
+  },
+  {
+    "filename": "OMOC08.TFS",
+    "sector": 20618,
+    "size": 148012
+  },
+  {
+    "filename": "GOMI02.MAP",
+    "sector": 20692,
+    "size": 214304
+  },
+  {
+    "filename": "GOMI02.TFS",
+    "sector": 20797,
+    "size": 492160
+  },
+  {
+    "filename": "MGEN01.MAP",
+    "sector": 21038,
+    "size": 10856
+  },
+  {
+    "filename": "MGEN01.TFS",
+    "sector": 21044,
+    "size": 492160
+  },
+  {
+    "filename": "MGEN02.MAP",
+    "sector": 21285,
+    "size": 10886
+  },
+  {
+    "filename": "MGEN02.TFS",
+    "sector": 21291,
+    "size": 492160
+  },
+  {
+    "filename": "TWNA02.MAP",
+    "sector": 21532,
+    "size": 216162
+  },
+  {
+    "filename": "TWNA02.TFS",
+    "sector": 21638,
+    "size": 494208
+  },
+  {
+    "filename": "TWNA03.MAP",
+    "sector": 21880,
+    "size": 216218
+  },
+  {
+    "filename": "TWNA03.TFS",
+    "sector": 21986,
+    "size": 493184
+  },
+  {
+    "filename": "TWNA04.MAP",
+    "sector": 22227,
+    "size": 216778
+  },
+  {
+    "filename": "TWNA04.TFS",
+    "sector": 22333,
+    "size": 493184
+  },
+  {
+    "filename": "TWNA05.MAP",
+    "sector": 22574,
+    "size": 216722
+  },
+  {
+    "filename": "TWNA05.TFS",
+    "sector": 22680,
+    "size": 493184
+  },
+  {
+    "filename": "TWNA06.MAP",
+    "sector": 22921,
+    "size": 216778
+  },
+  {
+    "filename": "TWNA06.TFS",
+    "sector": 23027,
+    "size": 493184
+  },
+  {
+    "filename": "TWNA07.MAP",
+    "sector": 23268,
+    "size": 217338
+  },
+  {
+    "filename": "TWNA07.TFS",
+    "sector": 23375,
+    "size": 493184
+  },
+  {
+    "filename": "TWNA08.MAP",
+    "sector": 23616,
+    "size": 216666
+  },
+  {
+    "filename": "TWNA08.TFS",
+    "sector": 23722,
+    "size": 493184
+  },
+  {
+    "filename": "TWNA09.MAP",
+    "sector": 23963,
+    "size": 216722
+  },
+  {
+    "filename": "TWNA09.TFS",
+    "sector": 24069,
+    "size": 493184
+  },
+  {
+    "filename": "TWNA10.MAP",
+    "sector": 24310,
+    "size": 217282
+  },
+  {
+    "filename": "TWNA10.TFS",
+    "sector": 24417,
+    "size": 493184
+  },
+  {
+    "filename": "TWNA11.MAP",
+    "sector": 24658,
+    "size": 217170
+  },
+  {
+    "filename": "TWNA11.TFS",
+    "sector": 24765,
+    "size": 493184
+  },
+  {
+    "filename": "TWNA12.MAP",
+    "sector": 25006,
+    "size": 217226
+  },
+  {
+    "filename": "TWNA12.TFS",
+    "sector": 25113,
+    "size": 493184
+  },
+  {
+    "filename": "TWNA13.MAP",
+    "sector": 25354,
+    "size": 217786
+  },
+  {
+    "filename": "TWNA13.TFS",
+    "sector": 25461,
+    "size": 493184
+  },
+  {
+    "filename": "TWNB01.MAP",
+    "sector": 25703,
+    "size": 216206
+  },
+  {
+    "filename": "TWNB01.TFS",
+    "sector": 25809,
+    "size": 493184
+  },
+  {
+    "filename": "TWNB02.MAP",
+    "sector": 26050,
+    "size": 216314
+  },
+  {
+    "filename": "TWNB02.TFS",
+    "sector": 26156,
+    "size": 493184
+  },
+  {
+    "filename": "TWNB03.MAP",
+    "sector": 26397,
+    "size": 216406
+  },
+  {
+    "filename": "TWNB03.TFS",
+    "sector": 26503,
+    "size": 493184
+  },
+  {
+    "filename": "TWNB04.MAP",
+    "sector": 26744,
+    "size": 216594
+  },
+  {
+    "filename": "TWNB04.TFS",
+    "sector": 26850,
+    "size": 493184
+  },
+  {
+    "filename": "TWNB05.MAP",
+    "sector": 27091,
+    "size": 218386
+  },
+  {
+    "filename": "TWNB05.TFS",
+    "sector": 27198,
+    "size": 493184
+  },
+  {
+    "filename": "TWNB06.MAP",
+    "sector": 27439,
+    "size": 218198
+  },
+  {
+    "filename": "TWNB06.TFS",
+    "sector": 27546,
+    "size": 493184
+  },
+  {
+    "filename": "TWNB07.MAP",
+    "sector": 27787,
+    "size": 216426
+  },
+  {
+    "filename": "TWNB07.TFS",
+    "sector": 27893,
+    "size": 493184
+  },
+  {
+    "filename": "TWNB08.MAP",
+    "sector": 28134,
+    "size": 218218
+  },
+  {
+    "filename": "TWNB08.TFS",
+    "sector": 28241,
+    "size": 493184
+  },
+  {
+    "filename": "TWNB09.MAP",
+    "sector": 28482,
+    "size": 218030
+  },
+  {
+    "filename": "TWNB09.TFS",
+    "sector": 28589,
+    "size": 493184
+  },
+  {
+    "filename": "TWNB10.MAP",
+    "sector": 28830,
+    "size": 215978
+  },
+  {
+    "filename": "TWNB10.TFS",
+    "sector": 28936,
+    "size": 493184
+  },
+  {
+    "filename": "TWNB11.MAP",
+    "sector": 29177,
+    "size": 216146
+  },
+  {
+    "filename": "TWNB11.TFS",
+    "sector": 29283,
+    "size": 493184
+  },
+  {
+    "filename": "TWNB12.MAP",
+    "sector": 29524,
+    "size": 216258
+  },
+  {
+    "filename": "TWNB12.TFS",
+    "sector": 29630,
+    "size": 493184
+  },
+  {
+    "filename": "TWNB13.MAP",
+    "sector": 29871,
+    "size": 218050
+  },
+  {
+    "filename": "TWNB13.TFS",
+    "sector": 29978,
+    "size": 493184
+  },
+  {
+    "filename": "TWNB14.MAP",
+    "sector": 30219,
+    "size": 217938
+  },
+  {
+    "filename": "TWNB14.TFS",
+    "sector": 30326,
+    "size": 493184
+  },
+  {
+    "filename": "TWNB15.MAP",
+    "sector": 30567,
+    "size": 216090
+  },
+  {
+    "filename": "TWNB15.TFS",
+    "sector": 30673,
+    "size": 493184
+  },
+  {
+    "filename": "ROOM10.MAP",
+    "sector": 30915,
+    "size": 176158
+  },
+  {
+    "filename": "ROOM10.TFS",
+    "sector": 31002,
+    "size": 197176
+  },
+  {
+    "filename": "ROOM11.MAP",
+    "sector": 31099,
+    "size": 76930
+  },
+  {
+    "filename": "ROOM11.TFS",
+    "sector": 31137,
+    "size": 98848
+  },
+  {
+    "filename": "ROOM12.MAP",
+    "sector": 31186,
+    "size": 110178
+  },
+  {
+    "filename": "ROOM12.TFS",
+    "sector": 31240,
+    "size": 99872
+  },
+  {
+    "filename": "ROOM13.MAP",
+    "sector": 31289,
+    "size": 209988
+  },
+  {
+    "filename": "ROOM13.TFS",
+    "sector": 31392,
+    "size": 459384
+  },
+  {
+    "filename": "ROOM14.MAP",
+    "sector": 31617,
+    "size": 142970
+  },
+  {
+    "filename": "ROOM14.TFS",
+    "sector": 31687,
+    "size": 197176
+  },
+  {
+    "filename": "TWNA01.MAP",
+    "sector": 31784,
+    "size": 216072
+  },
+  {
+    "filename": "TWNA01.TFS",
+    "sector": 31890,
+    "size": 493184
+  },
+  {
+    "filename": "TWNB16.MAP",
+    "sector": 32131,
+    "size": 217882
+  },
+  {
+    "filename": "TWNB16.TFS",
+    "sector": 32238,
+    "size": 493184
+  },
+  {
+    "filename": "TWNB17.MAP",
+    "sector": 32479,
+    "size": 217770
+  },
+  {
+    "filename": "TWNB17.TFS",
+    "sector": 32586,
+    "size": 493184
+  },
+  {
+    "filename": "TWNB18.MAP",
+    "sector": 32827,
+    "size": 216146
+  },
+  {
+    "filename": "TWNB18.TFS",
+    "sector": 32933,
+    "size": 493184
+  },
+  {
+    "filename": "TWNB19.MAP",
+    "sector": 33174,
+    "size": 216258
+  },
+  {
+    "filename": "TWNB19.TFS",
+    "sector": 33280,
+    "size": 493184
+  },
+  {
+    "filename": "TWNB20.MAP",
+    "sector": 33521,
+    "size": 218050
+  },
+  {
+    "filename": "TWNB20.TFS",
+    "sector": 33628,
+    "size": 493184
+  },
+  {
+    "filename": "TWNB21.MAP",
+    "sector": 33869,
+    "size": 217938
+  },
+  {
+    "filename": "TWNB21.TFS",
+    "sector": 33976,
+    "size": 493184
+  },
+  {
+    "filename": "TWNB22.MAP",
+    "sector": 34217,
+    "size": 216090
+  },
+  {
+    "filename": "TWNB22.TFS",
+    "sector": 34323,
+    "size": 493184
+  },
+  {
+    "filename": "TWNB23.MAP",
+    "sector": 34564,
+    "size": 217882
+  },
+  {
+    "filename": "TWNB23.TFS",
+    "sector": 34671,
+    "size": 493184
+  },
+  {
+    "filename": "TWNB24.MAP",
+    "sector": 34912,
+    "size": 217770
+  },
+  {
+    "filename": "TWNB24.TFS",
+    "sector": 35019,
+    "size": 493184
+  },
+  {
+    "filename": "FACT11B.MAP",
+    "sector": 35261,
+    "size": 203184
+  },
+  {
+    "filename": "FACT11B.TFS",
+    "sector": 35361,
+    "size": 459384
+  },
+  {
+    "filename": "MGEN03.MAP",
+    "sector": 35586,
+    "size": 10862
+  },
+  {
+    "filename": "MGEN03.TFS",
+    "sector": 35592,
+    "size": 492160
+  },
+  {
+    "filename": "MGEN04.MAP",
+    "sector": 35833,
+    "size": 10856
+  },
+  {
+    "filename": "MGEN04.TFS",
+    "sector": 35839,
+    "size": 492160
+  },
+  {
+    "filename": "MGEN05.MAP",
+    "sector": 36080,
+    "size": 10682
+  },
+  {
+    "filename": "MGEN05.TFS",
+    "sector": 36086,
+    "size": 492160
+  },
+  {
+    "filename": "MGEN98.MAP",
+    "sector": 36327,
+    "size": 10488
+  },
+  {
+    "filename": "MGEN98.TFS",
+    "sector": 36333,
+    "size": 459384
+  },
+  {
+    "filename": "ROOM02.MAP",
+    "sector": 36558,
+    "size": 143172
+  },
+  {
+    "filename": "ROOM02.TFS",
+    "sector": 36628,
+    "size": 197176
+  },
+  {
+    "filename": "ROOM04.MAP",
+    "sector": 36725,
+    "size": 143658
+  },
+  {
+    "filename": "ROOM04.TFS",
+    "sector": 36796,
+    "size": 262728
+  },
+  {
+    "filename": "ROOM05A.MAP",
+    "sector": 36925,
+    "size": 143778
+  },
+  {
+    "filename": "ROOM05A.TFS",
+    "sector": 36996,
+    "size": 197176
+  },
+  {
+    "filename": "ROOM05B.MAP",
+    "sector": 37093,
+    "size": 210064
+  },
+  {
+    "filename": "ROOM05B.TFS",
+    "sector": 37196,
+    "size": 197176
+  },
+  {
+    "filename": "ROOM06.MAP",
+    "sector": 37293,
+    "size": 210358
+  },
+  {
+    "filename": "ROOM06.TFS",
+    "sector": 37396,
+    "size": 164400
+  },
+  {
+    "filename": "ROOM07.MAP",
+    "sector": 37477,
+    "size": 77028
+  },
+  {
+    "filename": "ROOM07.TFS",
+    "sector": 37515,
+    "size": 131624
+  },
+  {
+    "filename": "ROOM08.MAP",
+    "sector": 37580,
+    "size": 209670
+  },
+  {
+    "filename": "ROOM08.TFS",
+    "sector": 37683,
+    "size": 246340
+  },
+  {
+    "filename": "ROOM19.MAP",
+    "sector": 37804,
+    "size": 210616
+  },
+  {
+    "filename": "ROOM19.TFS",
+    "sector": 37907,
+    "size": 459384
+  },
+  {
+    "filename": "SAIB03.MAP",
+    "sector": 38132,
+    "size": 10460
+  },
+  {
+    "filename": "SAIB03.TFS",
+    "sector": 38138,
+    "size": 344668
+  },
+  {
+    "filename": "YAKA26.MAP",
+    "sector": 38307,
+    "size": 208940
+  },
+  {
+    "filename": "YAKA26.TFS",
+    "sector": 38410,
+    "size": 98848
+  },
+  {
+    "filename": "MGEN11.MAP",
+    "sector": 38460,
+    "size": 10766
+  },
+  {
+    "filename": "MGEN11.TFS",
+    "sector": 38466,
+    "size": 492160
+  },
+  {
+    "filename": "MGEN12.MAP",
+    "sector": 38707,
+    "size": 10766
+  },
+  {
+    "filename": "MGEN12.TFS",
+    "sector": 38713,
+    "size": 492160
+  },
+  {
+    "filename": "MGEN13.MAP",
+    "sector": 38954,
+    "size": 10766
+  },
+  {
+    "filename": "MGEN13.TFS",
+    "sector": 38960,
+    "size": 492160
+  },
+  {
+    "filename": "MGEN14.MAP",
+    "sector": 39201,
+    "size": 10382
+  },
+  {
+    "filename": "MGEN14.TFS",
+    "sector": 39207,
+    "size": 393832
+  },
+  {
+    "filename": "MGEN15.MAP",
+    "sector": 39400,
+    "size": 10382
+  },
+  {
+    "filename": "MGEN15.TFS",
+    "sector": 39406,
+    "size": 393832
+  },
+  {
+    "filename": "MGEN16.MAP",
+    "sector": 39599,
+    "size": 10350
+  },
+  {
+    "filename": "MGEN16.TFS",
+    "sector": 39605,
+    "size": 262728
+  },
+  {
+    "filename": "MGEN17.MAP",
+    "sector": 39734,
+    "size": 10406
+  },
+  {
+    "filename": "MGEN17.TFS",
+    "sector": 39740,
+    "size": 492160
+  },
+  {
+    "filename": "MGEN99.MAP",
+    "sector": 39981,
+    "size": 209436
+  },
+  {
+    "filename": "MGEN99.TFS",
+    "sector": 40084,
+    "size": 393832
+  },
+  {
+    "filename": "MIHA05.MAP",
+    "sector": 40277,
+    "size": 209252
+  },
+  {
+    "filename": "MIHA05.TFS",
+    "sector": 40380,
+    "size": 460408
+  },
+  {
+    "filename": "MIHA06.MAP",
+    "sector": 40605,
+    "size": 143736
+  },
+  {
+    "filename": "MIHA06.TFS",
+    "sector": 40676,
+    "size": 493184
+  },
+  {
+    "filename": "ROOM20.MAP",
+    "sector": 40917,
+    "size": 10490
+  },
+  {
+    "filename": "ROOM20.TFS",
+    "sector": 40923,
+    "size": 98848
+  },
+  {
+    "filename": "TEND01.MAP",
+    "sector": 40972,
+    "size": 212372
+  },
+  {
+    "filename": "TEND01.TFS",
+    "sector": 41076,
+    "size": 492160
+  },
+  {
+    "filename": "TEND02.MAP",
+    "sector": 41317,
+    "size": 212372
+  },
+  {
+    "filename": "TEND02.TFS",
+    "sector": 41421,
+    "size": 492160
+  },
+  {
+    "filename": "TOPN01.MAP",
+    "sector": 41662,
+    "size": 211680
+  },
+  {
+    "filename": "TOPN01.TFS",
+    "sector": 41766,
+    "size": 492160
+  },
+  {
+    "filename": "YAKA25.MAP",
+    "sector": 42007,
+    "size": 142598
+  },
+  {
+    "filename": "YAKA25.TFS",
+    "sector": 42077,
+    "size": 328280
+  },
+  {
+    "filename": "MGEN06.MAP",
+    "sector": 42239,
+    "size": 10882
+  },
+  {
+    "filename": "MGEN06.TFS",
+    "sector": 42245,
+    "size": 229952
+  },
+  {
+    "filename": "MGEN07.MAP",
+    "sector": 42358,
+    "size": 10676
+  },
+  {
+    "filename": "MGEN07.TFS",
+    "sector": 42364,
+    "size": 492160
+  },
+  {
+    "filename": "MGEN08.MAP",
+    "sector": 42605,
+    "size": 10766
+  },
+  {
+    "filename": "MGEN08.TFS",
+    "sector": 42611,
+    "size": 492160
+  },
+  {
+    "filename": "MGEN09.MAP",
+    "sector": 42852,
+    "size": 10682
+  },
+  {
+    "filename": "MGEN09.TFS",
+    "sector": 42858,
+    "size": 492160
+  },
+  {
+    "filename": "MGEN10.MAP",
+    "sector": 43099,
+    "size": 11072
+  },
+  {
+    "filename": "MGEN10.TFS",
+    "sector": 43105,
+    "size": 492160
+  },
+  {
+    "filename": "MIHA00.MAP",
+    "sector": 43347,
+    "size": 143726
+  },
+  {
+    "filename": "MIHA00.TFS",
+    "sector": 43418,
+    "size": 296528
+  },
+  {
+    "filename": "MIHA01.MAP",
+    "sector": 43563,
+    "size": 211420
+  },
+  {
+    "filename": "MIHA01.TFS",
+    "sector": 43667,
+    "size": 493184
+  },
+  {
+    "filename": "MIHA02.MAP",
+    "sector": 43908,
+    "size": 143568
+  },
+  {
+    "filename": "MIHA02.TFS",
+    "sector": 43979,
+    "size": 493184
+  },
+  {
+    "filename": "MIHA03.MAP",
+    "sector": 44220,
+    "size": 76902
+  },
+  {
+    "filename": "MIHA03.TFS",
+    "sector": 44258,
+    "size": 492160
+  },
+  {
+    "filename": "MIHA04A.MAP",
+    "sector": 44499,
+    "size": 209822
+  },
+  {
+    "filename": "MIHA04A.TFS",
+    "sector": 44602,
+    "size": 493184
+  },
+  {
+    "filename": "MIHA04B.MAP",
+    "sector": 44843,
+    "size": 143626
+  },
+  {
+    "filename": "MIHA04B.TFS",
+    "sector": 44914,
+    "size": 493184
+  },
+  {
+    "filename": "TROP04.MAP",
+    "sector": 45155,
+    "size": 210170
+  },
+  {
+    "filename": "TROP04.TFS",
+    "sector": 45258,
+    "size": 493184
+  },
+  {
+    "filename": "TROP05.MAP",
+    "sector": 45499,
+    "size": 143822
+  },
+  {
+    "filename": "TROP05.TFS",
+    "sector": 45570,
+    "size": 493184
+  },
+  {
+    "filename": "TROP06.MAP",
+    "sector": 45811,
+    "size": 211680
+  },
+  {
+    "filename": "TROP06.TFS",
+    "sector": 45915,
+    "size": 493184
+  },
+  {
+    "filename": "TUNN01.MAP",
+    "sector": 46156,
+    "size": 141996
+  },
+  {
+    "filename": "TUNN01.TFS",
+    "sector": 46226,
+    "size": 328280
+  },
+  {
+    "filename": "TUNN02.MAP",
+    "sector": 46387,
+    "size": 209194
+  },
+  {
+    "filename": "TUNN02.TFS",
+    "sector": 46490,
+    "size": 492160
+  },
+  {
+    "filename": "TUNN03.MAP",
+    "sector": 46731,
+    "size": 210064
+  },
+  {
+    "filename": "TUNN03.TFS",
+    "sector": 46834,
+    "size": 492160
+  },
+  {
+    "filename": "TUNN04.MAP",
+    "sector": 47075,
+    "size": 208012
+  },
+  {
+    "filename": "TUNN04.TFS",
+    "sector": 47177,
+    "size": 328280
+  },
+  {
+    "filename": "TUNN05.MAP",
+    "sector": 47338,
+    "size": 208862
+  },
+  {
+    "filename": "TUNN05.TFS",
+    "sector": 47440,
+    "size": 459384
+  },
+  {
+    "filename": "TUNN06.MAP",
+    "sector": 47665,
+    "size": 76548
+  },
+  {
+    "filename": "TUNN06.TFS",
+    "sector": 47703,
+    "size": 98848
+  },
+  {
+    "filename": "DGHA01.MAP",
+    "sector": 47753,
+    "size": 145702
+  },
+  {
+    "filename": "DGHA01.TFS",
+    "sector": 47825,
+    "size": 493184
+  },
+  {
+    "filename": "DGHA02.MAP",
+    "sector": 48066,
+    "size": 212566
+  },
+  {
+    "filename": "DGHA02.TFS",
+    "sector": 48170,
+    "size": 492160
+  },
+  {
+    "filename": "GCAN01.MAP",
+    "sector": 48411,
+    "size": 209622
+  },
+  {
+    "filename": "GCAN01.TFS",
+    "sector": 48514,
+    "size": 493184
+  },
+  {
+    "filename": "GCAN02.MAP",
+    "sector": 48755,
+    "size": 241214
+  },
+  {
+    "filename": "GCAN02.TFS",
+    "sector": 48873,
+    "size": 165424
+  },
+  {
+    "filename": "GCAN03.MAP",
+    "sector": 48954,
+    "size": 241246
+  },
+  {
+    "filename": "GCAN03.TFS",
+    "sector": 49072,
+    "size": 493184
+  },
+  {
+    "filename": "GCAN04.MAP",
+    "sector": 49313,
+    "size": 207806
+  },
+  {
+    "filename": "GCAN04.TFS",
+    "sector": 49415,
+    "size": 493184
+  },
+  {
+    "filename": "GCAN05.MAP",
+    "sector": 49656,
+    "size": 241854
+  },
+  {
+    "filename": "GCAN05.TFS",
+    "sector": 49775,
+    "size": 493184
+  },
+  {
+    "filename": "GCAN06.MAP",
+    "sector": 50016,
+    "size": 241150
+  },
+  {
+    "filename": "GCAN06.TFS",
+    "sector": 50134,
+    "size": 493184
+  },
+  {
+    "filename": "GCAN07.MAP",
+    "sector": 50375,
+    "size": 10930
+  },
+  {
+    "filename": "GCAN07.TFS",
+    "sector": 50381,
+    "size": 329304
+  },
+  {
+    "filename": "GCAN08\\_1.MAP",
+    "sector": 50542,
+    "size": 208534
+  },
+  {
+    "filename": "GCAN08\\_1.TFS",
+    "sector": 50644,
+    "size": 394856
+  },
+  {
+    "filename": "GCAN09.MAP",
+    "sector": 50837,
+    "size": 209606
+  },
+  {
+    "filename": "GCAN09.TFS",
+    "sector": 50940,
+    "size": 230976
+  },
+  {
+    "filename": "TUNN07.MAP",
+    "sector": 51053,
+    "size": 208860
+  },
+  {
+    "filename": "TUNN07.TFS",
+    "sector": 51155,
+    "size": 459384
+  },
+  {
+    "filename": "TUNN08.MAP",
+    "sector": 51380,
+    "size": 76636
+  },
+  {
+    "filename": "TUNN08.TFS",
+    "sector": 51418,
+    "size": 459384
+  },
+  {
+    "filename": "TUNN09.MAP",
+    "sector": 51643,
+    "size": 208482
+  },
+  {
+    "filename": "TUNN09.TFS",
+    "sector": 51745,
+    "size": 99872
+  },
+  {
+    "filename": "TUNN10.MAP",
+    "sector": 51794,
+    "size": 207850
+  },
+  {
+    "filename": "TUNN10.TFS",
+    "sector": 51896,
+    "size": 393832
+  },
+  {
+    "filename": "GCAN11.MAP",
+    "sector": 52090,
+    "size": 212578
+  },
+  {
+    "filename": "GCAN11.TFS",
+    "sector": 52194,
+    "size": 98848
+  },
+  {
+    "filename": "OGRE00.MAP",
+    "sector": 52243,
+    "size": 76814
+  },
+  {
+    "filename": "OGRE00.TFS",
+    "sector": 52281,
+    "size": 148012
+  },
+  {
+    "filename": "OGRE01.MAP",
+    "sector": 52354,
+    "size": 208374
+  },
+  {
+    "filename": "OGRE01.TFS",
+    "sector": 52456,
+    "size": 246340
+  },
+  {
+    "filename": "OGRE02.MAP",
+    "sector": 52577,
+    "size": 209762
+  },
+  {
+    "filename": "OGRE02.TFS",
+    "sector": 52680,
+    "size": 246340
+  },
+  {
+    "filename": "OGRE03.MAP",
+    "sector": 52801,
+    "size": 244824
+  },
+  {
+    "filename": "OGRE03.TFS",
+    "sector": 52921,
+    "size": 328280
+  },
+  {
+    "filename": "YAKA02.MAP",
+    "sector": 53082,
+    "size": 209742
+  },
+  {
+    "filename": "YAKA02.TFS",
+    "sector": 53185,
+    "size": 492160
+  },
+  {
+    "filename": "YAKA11A.MAP",
+    "sector": 53426,
+    "size": 210324
+  },
+  {
+    "filename": "YAKA11A.TFS",
+    "sector": 53529,
+    "size": 492160
+  },
+  {
+    "filename": "YAKA11B.MAP",
+    "sector": 53770,
+    "size": 209954
+  },
+  {
+    "filename": "YAKA11B.TFS",
+    "sector": 53873,
+    "size": 492160
+  },
+  {
+    "filename": "YAKA12.MAP",
+    "sector": 54114,
+    "size": 142674
+  },
+  {
+    "filename": "YAKA12.TFS",
+    "sector": 54184,
+    "size": 410220
+  },
+  {
+    "filename": "YAKA13.MAP",
+    "sector": 54385,
+    "size": 209632
+  },
+  {
+    "filename": "YAKA13.TFS",
+    "sector": 54488,
+    "size": 492160
+  },
+  {
+    "filename": "YAKA14.MAP",
+    "sector": 54729,
+    "size": 209384
+  },
+  {
+    "filename": "YAKA14.TFS",
+    "sector": 54832,
+    "size": 492160
+  },
+  {
+    "filename": "YAKA15.MAP",
+    "sector": 55073,
+    "size": 209150
+  },
+  {
+    "filename": "YAKA15.TFS",
+    "sector": 55176,
+    "size": 410220
+  },
+  {
+    "filename": "YAKA16.MAP",
+    "sector": 55377,
+    "size": 208960
+  },
+  {
+    "filename": "YAKA16.TFS",
+    "sector": 55480,
+    "size": 410220
+  },
+  {
+    "filename": "YAKA17.MAP",
+    "sector": 55681,
+    "size": 142806
+  },
+  {
+    "filename": "YAKA17.TFS",
+    "sector": 55751,
+    "size": 328280
+  },
+  {
+    "filename": "CHKA01.MAP",
+    "sector": 55913,
+    "size": 10726
+  },
+  {
+    "filename": "CHKA01.TFS",
+    "sector": 55919,
+    "size": 328280
+  },
+  {
+    "filename": "GIAS00.MAP",
+    "sector": 56080,
+    "size": 145986
+  },
+  {
+    "filename": "GIAS00.TFS",
+    "sector": 56152,
+    "size": 444020
+  },
+  {
+    "filename": "GIAS01.MAP",
+    "sector": 56369,
+    "size": 209782
+  },
+  {
+    "filename": "GIAS01.TFS",
+    "sector": 56472,
+    "size": 493184
+  },
+  {
+    "filename": "GIAS02.MAP",
+    "sector": 56713,
+    "size": 212426
+  },
+  {
+    "filename": "GIAS02.TFS",
+    "sector": 56817,
+    "size": 493184
+  },
+  {
+    "filename": "GIAS03.MAP",
+    "sector": 57058,
+    "size": 77450
+  },
+  {
+    "filename": "GIAS03.TFS",
+    "sector": 57096,
+    "size": 493184
+  },
+  {
+    "filename": "GIAS04.MAP",
+    "sector": 57337,
+    "size": 213300
+  },
+  {
+    "filename": "GIAS04.TFS",
+    "sector": 57442,
+    "size": 493184
+  },
+  {
+    "filename": "GIAS05.MAP",
+    "sector": 57683,
+    "size": 210698
+  },
+  {
+    "filename": "GIAS05.TFS",
+    "sector": 57786,
+    "size": 493184
+  },
+  {
+    "filename": "SAIB01.MAP",
+    "sector": 58027,
+    "size": 208702
+  },
+  {
+    "filename": "SAIB01.TFS",
+    "sector": 58129,
+    "size": 492160
+  },
+  {
+    "filename": "SAIB02.MAP",
+    "sector": 58370,
+    "size": 144030
+  },
+  {
+    "filename": "SAIB02.TFS",
+    "sector": 58441,
+    "size": 492160
+  },
+  {
+    "filename": "YAKA18.MAP",
+    "sector": 58682,
+    "size": 209038
+  },
+  {
+    "filename": "YAKA18.TFS",
+    "sector": 58785,
+    "size": 410220
+  },
+  {
+    "filename": "YAKA22.MAP",
+    "sector": 58986,
+    "size": 211954
+  },
+  {
+    "filename": "YAKA22.TFS",
+    "sector": 59090,
+    "size": 492160
+  },
+  {
+    "filename": "YAKA23.MAP",
+    "sector": 59331,
+    "size": 209282
+  },
+  {
+    "filename": "YAKA23.TFS",
+    "sector": 59434,
+    "size": 492160
+  },
+  {
+    "filename": "YAKA24.MAP",
+    "sector": 59675,
+    "size": 208922
+  },
+  {
+    "filename": "YAKA24.TFS",
+    "sector": 59778,
+    "size": 393832
+  },
+  {
+    "filename": "FRZL01.MAP",
+    "sector": 59972,
+    "size": 209914
+  },
+  {
+    "filename": "FRZL01.TFS",
+    "sector": 60075,
+    "size": 493184
+  },
+  {
+    "filename": "FRZL02.MAP",
+    "sector": 60316,
+    "size": 144110
+  },
+  {
+    "filename": "FRZL02.TFS",
+    "sector": 60387,
+    "size": 493184
+  },
+  {
+    "filename": "GIAS06A.MAP",
+    "sector": 60628,
+    "size": 212686
+  },
+  {
+    "filename": "GIAS06A.TFS",
+    "sector": 60732,
+    "size": 493184
+  },
+  {
+    "filename": "GIAS07.MAP",
+    "sector": 60973,
+    "size": 144070
+  },
+  {
+    "filename": "GIAS07.TFS",
+    "sector": 61044,
+    "size": 493184
+  },
+  {
+    "filename": "GIAS08.MAP",
+    "sector": 61285,
+    "size": 145266
+  },
+  {
+    "filename": "GIAS08.TFS",
+    "sector": 61356,
+    "size": 493184
+  },
+  {
+    "filename": "GIAS09.MAP",
+    "sector": 61597,
+    "size": 213600
+  },
+  {
+    "filename": "GIAS09.TFS",
+    "sector": 61702,
+    "size": 493184
+  },
+  {
+    "filename": "KODA00.MAP",
+    "sector": 61943,
+    "size": 143624
+  },
+  {
+    "filename": "KODA00.TFS",
+    "sector": 62014,
+    "size": 247364
+  },
+  {
+    "filename": "KODA01.MAP",
+    "sector": 62135,
+    "size": 143766
+  },
+  {
+    "filename": "KODA01.TFS",
+    "sector": 62206,
+    "size": 411244
+  },
+  {
+    "filename": "KODA02.MAP",
+    "sector": 62407,
+    "size": 209810
+  },
+  {
+    "filename": "KODA02.TFS",
+    "sector": 62510,
+    "size": 493184
+  },
+  {
+    "filename": "KODA03.MAP",
+    "sector": 62751,
+    "size": 10710
+  },
+  {
+    "filename": "KODA03.TFS",
+    "sector": 62757,
+    "size": 263752
+  },
+  {
+    "filename": "KODA04.MAP",
+    "sector": 62886,
+    "size": 210362
+  },
+  {
+    "filename": "KODA04.TFS",
+    "sector": 62989,
+    "size": 493184
+  },
+  {
+    "filename": "KODA05.MAP",
+    "sector": 63230,
+    "size": 142822
+  },
+  {
+    "filename": "KODA05.TFS",
+    "sector": 63300,
+    "size": 99872
+  },
+  {
+    "filename": "KODA06.MAP",
+    "sector": 63349,
+    "size": 210248
+  },
+  {
+    "filename": "KODA06.TFS",
+    "sector": 63452,
+    "size": 411244
+  },
+  {
+    "filename": "KODA07.MAP",
+    "sector": 63653,
+    "size": 142902
+  },
+  {
+    "filename": "KODA07.TFS",
+    "sector": 63723,
+    "size": 149036
+  },
+  {
+    "filename": "KODA08.MAP",
+    "sector": 63796,
+    "size": 143406
+  },
+  {
+    "filename": "KODA08.TFS",
+    "sector": 63867,
+    "size": 493184
+  },
+  {
+    "filename": "FRZL03.MAP",
+    "sector": 64109,
+    "size": 211182
+  },
+  {
+    "filename": "FRZL03.TFS",
+    "sector": 64213,
+    "size": 493184
+  },
+  {
+    "filename": "FRZL04.MAP",
+    "sector": 64454,
+    "size": 144230
+  },
+  {
+    "filename": "FRZL04.TFS",
+    "sector": 64525,
+    "size": 460408
+  },
+  {
+    "filename": "FRZL05.MAP",
+    "sector": 64750,
+    "size": 77378
+  },
+  {
+    "filename": "FRZL05.TFS",
+    "sector": 64788,
+    "size": 99872
+  },
+  {
+    "filename": "FRZL06.MAP",
+    "sector": 64837,
+    "size": 177750
+  },
+  {
+    "filename": "FRZL06.TFS",
+    "sector": 64924,
+    "size": 394856
+  },
+  {
+    "filename": "FRZL07.MAP",
+    "sector": 65117,
+    "size": 210098
+  },
+  {
+    "filename": "FRZL07.TFS",
+    "sector": 65220,
+    "size": 460408
+  },
+  {
+    "filename": "FRZL08.MAP",
+    "sector": 65445,
+    "size": 210726
+  },
+  {
+    "filename": "FRZL08.TFS",
+    "sector": 65548,
+    "size": 460408
+  },
+  {
+    "filename": "FRZL12.MAP",
+    "sector": 65773,
+    "size": 209882
+  },
+  {
+    "filename": "FRZL12.TFS",
+    "sector": 65876,
+    "size": 493184
+  },
+  {
+    "filename": "ICSA01.MAP",
+    "sector": 66117,
+    "size": 208216
+  },
+  {
+    "filename": "ICSA01.TFS",
+    "sector": 66219,
+    "size": 246340
+  },
+  {
+    "filename": "ICSA02.MAP",
+    "sector": 66340,
+    "size": 143276
+  },
+  {
+    "filename": "ICSA02.TFS",
+    "sector": 66410,
+    "size": 459384
+  },
+  {
+    "filename": "ICSA03.MAP",
+    "sector": 66635,
+    "size": 176700
+  },
+  {
+    "filename": "ICSA03.TFS",
+    "sector": 66722,
+    "size": 492160
+  },
+  {
+    "filename": "ICSA04.MAP",
+    "sector": 66963,
+    "size": 10676
+  },
+  {
+    "filename": "ICSA04.TFS",
+    "sector": 66969,
+    "size": 492160
+  },
+  {
+    "filename": "ICSA05.MAP",
+    "sector": 67210,
+    "size": 43894
+  },
+  {
+    "filename": "ICSA05.TFS",
+    "sector": 67232,
+    "size": 492160
+  },
+  {
+    "filename": "ICSA06.MAP",
+    "sector": 67473,
+    "size": 109354
+  },
+  {
+    "filename": "ICSA06.TFS",
+    "sector": 67527,
+    "size": 197176
+  },
+  {
+    "filename": "ICSA07.MAP",
+    "sector": 67624,
+    "size": 76648
+  },
+  {
+    "filename": "ICSA07.TFS",
+    "sector": 67662,
+    "size": 492160
+  },
+  {
+    "filename": "ICSA08.MAP",
+    "sector": 67903,
+    "size": 43608
+  },
+  {
+    "filename": "ICSA08.TFS",
+    "sector": 67925,
+    "size": 492160
+  },
+  {
+    "filename": "BETL01.MAP",
+    "sector": 68167,
+    "size": 211350
+  },
+  {
+    "filename": "BETL01.TFS",
+    "sector": 68271,
+    "size": 493184
+  },
+  {
+    "filename": "BETL02.MAP",
+    "sector": 68512,
+    "size": 209756
+  },
+  {
+    "filename": "BETL02.TFS",
+    "sector": 68615,
+    "size": 460408
+  },
+  {
+    "filename": "BETL03.MAP",
+    "sector": 68840,
+    "size": 210560
+  },
+  {
+    "filename": "BETL03.TFS",
+    "sector": 68943,
+    "size": 328280
+  },
+  {
+    "filename": "BETL04.MAP",
+    "sector": 69104,
+    "size": 216844
+  },
+  {
+    "filename": "BETL04.TFS",
+    "sector": 69210,
+    "size": 328280
+  },
+  {
+    "filename": "LEOM01.MAP",
+    "sector": 69371,
+    "size": 142912
+  },
+  {
+    "filename": "LEOM01.TFS",
+    "sector": 69441,
+    "size": 328280
+  },
+  {
+    "filename": "LEOM02.MAP",
+    "sector": 69602,
+    "size": 76564
+  },
+  {
+    "filename": "LEOM02.TFS",
+    "sector": 69640,
+    "size": 164400
+  },
+  {
+    "filename": "MAYO00.MAP",
+    "sector": 69721,
+    "size": 211014
+  },
+  {
+    "filename": "MAYO00.TFS",
+    "sector": 69825,
+    "size": 493184
+  },
+  {
+    "filename": "MAYO01\\_2.MAP",
+    "sector": 70066,
+    "size": 211374
+  },
+  {
+    "filename": "MAYO01\\_2.TFS",
+    "sector": 70170,
+    "size": 494208
+  },
+  {
+    "filename": "MAYO02\\_2.MAP",
+    "sector": 70412,
+    "size": 211954
+  },
+  {
+    "filename": "MAYO02\\_2.TFS",
+    "sector": 70516,
+    "size": 493184
+  },
+  {
+    "filename": "MIST01.MAP",
+    "sector": 70757,
+    "size": 202466
+  },
+  {
+    "filename": "MIST01.TFS",
+    "sector": 70856,
+    "size": 493184
+  },
+  {
+    "filename": "MIST02.MAP",
+    "sector": 71097,
+    "size": 204732
+  },
+  {
+    "filename": "MIST02.TFS",
+    "sector": 71197,
+    "size": 493696
+  },
+  {
+    "filename": "MIST03.MAP",
+    "sector": 71439,
+    "size": 203110
+  },
+  {
+    "filename": "MIST03.TFS",
+    "sector": 71539,
+    "size": 493184
+  },
+  {
+    "filename": "MIST04.MAP",
+    "sector": 71780,
+    "size": 203050
+  },
+  {
+    "filename": "MIST04.TFS",
+    "sector": 71880,
+    "size": 247364
+  },
+  {
+    "filename": "MIST05.MAP",
+    "sector": 72001,
+    "size": 207252
+  },
+  {
+    "filename": "MIST05.TFS",
+    "sector": 72103,
+    "size": 493184
+  },
+  {
+    "filename": "TRAI00.MAP",
+    "sector": 72344,
+    "size": 219256
+  },
+  {
+    "filename": "TRAI00.TFS",
+    "sector": 72452,
+    "size": 493184
+  },
+  {
+    "filename": "FRZL13.MAP",
+    "sector": 72694,
+    "size": 209534
+  },
+  {
+    "filename": "FRZL13.TFS",
+    "sector": 72797,
+    "size": 493184
+  },
+  {
+    "filename": "FRZL14.MAP",
+    "sector": 73038,
+    "size": 209378
+  },
+  {
+    "filename": "FRZL14.TFS",
+    "sector": 73141,
+    "size": 460408
+  },
+  {
+    "filename": "FRZL15.MAP",
+    "sector": 73366,
+    "size": 143834
+  },
+  {
+    "filename": "FRZL15.TFS",
+    "sector": 73437,
+    "size": 198200
+  },
+  {
+    "filename": "GCAN04\\_2.MAP",
+    "sector": 73534,
+    "size": 10586
+  },
+  {
+    "filename": "GCAN04\\_2.TFS",
+    "sector": 73540,
+    "size": 493184
+  },
+  {
+    "filename": "GCAN08\\_2.MAP",
+    "sector": 73781,
+    "size": 208478
+  },
+  {
+    "filename": "GCAN08\\_2.TFS",
+    "sector": 73883,
+    "size": 394856
+  },
+  {
+    "filename": "GCAN10.MAP",
+    "sector": 74076,
+    "size": 242008
+  },
+  {
+    "filename": "GCAN10.TFS",
+    "sector": 74195,
+    "size": 493184
+  },
+  {
+    "filename": "GIAS06B.MAP",
+    "sector": 74436,
+    "size": 213130
+  },
+  {
+    "filename": "GIAS06B.TFS",
+    "sector": 74541,
+    "size": 411244
+  },
+  {
+    "filename": "MIST06.MAP",
+    "sector": 74742,
+    "size": 268692
+  },
+  {
+    "filename": "MIST06.TFS",
+    "sector": 74874,
+    "size": 247364
+  },
+  {
+    "filename": "MIST07.MAP",
+    "sector": 74995,
+    "size": 202950
+  },
+  {
+    "filename": "MIST07.TFS",
+    "sector": 75095,
+    "size": 460408
+  },
+  {
+    "filename": "OGRE04.MAP",
+    "sector": 75320,
+    "size": 208330
+  },
+  {
+    "filename": "OGRE04.TFS",
+    "sector": 75422,
+    "size": 492160
+  },
+  {
+    "filename": "TUNN03\\_2.MAP",
+    "sector": 75663,
+    "size": 209526
+  },
+  {
+    "filename": "TUNN03\\_2.TFS",
+    "sector": 75766,
+    "size": 492160
+  },
+  {
+    "filename": "TUNN07\\_2.MAP",
+    "sector": 76007,
+    "size": 207674
+  },
+  {
+    "filename": "TUNN07\\_2.TFS",
+    "sector": 76109,
+    "size": 459384
+  },
+  {
+    "filename": "TUNN07\\_3.MAP",
+    "sector": 76334,
+    "size": 207770
+  },
+  {
+    "filename": "TUNN07\\_3.TFS",
+    "sector": 76436,
+    "size": 459384
+  },
+  {
+    "filename": "TUNN08\\_2.MAP",
+    "sector": 76661,
+    "size": 10398
+  },
+  {
+    "filename": "TUNN08\\_2.TFS",
+    "sector": 76667,
+    "size": 459384
+  },
+  {
+    "filename": "TUNN08\\_3.MAP",
+    "sector": 76892,
+    "size": 10494
+  },
+  {
+    "filename": "TUNN08\\_3.TFS",
+    "sector": 76898,
+    "size": 459384
+  },
+  {
+    "filename": "ED2.STR",
+    "sector": 77124,
+    "size": 30984704
+  },
+  {
+    "filename": "EDR.STR",
+    "sector": 90388,
+    "size": 40328704
+  },
+  {
+    "filename": "OP1.STR",
+    "sector": 107652,
+    "size": 43449600
+  },
+  {
+    "filename": "OP2.STR",
+    "sector": 126252,
+    "size": 38160896
+  },
+  {
+    "filename": "DG.SCN",
+    "sector": 142589,
+    "size": 804864
+  },
+  {
+    "filename": "MAPHEAD.SCN",
+    "sector": 142982,
+    "size": 24686
+  },
+  {
+    "filename": "ESALL.VHB",
+    "sector": 142997,
+    "size": 3698688
+  },
+  {
+    "filename": "FAALL.VHB",
+    "sector": 144803,
+    "size": 2635776
+  },
+  {
+    "filename": "SB.VHB",
+    "sector": 146090,
+    "size": 248524
+  },
+  {
+    "filename": "SL.VHB",
+    "sector": 146212,
+    "size": 55564
+  },
+  {
+    "filename": "SS.VHB",
+    "sector": 146240,
+    "size": 57180
+  },
+  {
+    "filename": "VBALL.VHB",
+    "sector": 146268,
+    "size": 1017856
+  },
+  {
+    "filename": "VLALL.VHB",
+    "sector": 146765,
+    "size": 491520
+  },
+  {
+    "filename": "16TAISEN.TIM",
+    "sector": 147006,
+    "size": 32960
+  },
+  {
+    "filename": "1P2PWIN.TMD",
+    "sector": 147023,
+    "size": 7352
+  },
+  {
+    "filename": "B\\_DAI.TMD",
+    "sector": 147027,
+    "size": 4472
+  },
+  {
+    "filename": "B\\_TOGI.ATR",
+    "sector": 147030,
+    "size": 10000
+  },
+  {
+    "filename": "B\\_TOGI.TIM",
+    "sector": 147035,
+    "size": 92352
+  },
+  {
+    "filename": "B\\_TOGI.TMD",
+    "sector": 147081,
+    "size": 26620
+  },
+  {
+    "filename": "CHAMP.TMD",
+    "sector": 147094,
+    "size": 9544
+  },
+  {
+    "filename": "DRAW.TMD",
+    "sector": 147099,
+    "size": 5132
+  },
+  {
+    "filename": "E\\_DAI.TMD",
+    "sector": 147102,
+    "size": 152
+  },
+  {
+    "filename": "E\\_TOGI.ATR",
+    "sector": 147103,
+    "size": 10000
+  },
+  {
+    "filename": "E\\_TOGI.TIM",
+    "sector": 147108,
+    "size": 27936
+  },
+  {
+    "filename": "E\\_TOGI.TMD",
+    "sector": 147122,
+    "size": 16508
+  },
+  {
+    "filename": "STDTIM.BIN",
+    "sector": 147131,
+    "size": 134528
+  },
+  {
+    "filename": "TAISEN1.TIM",
+    "sector": 147197,
+    "size": 33312
+  },
+  {
+    "filename": "TAISEN2.TIM",
+    "sector": 147214,
+    "size": 9312
+  },
+  {
+    "filename": "TAISEN\\_F.TIM",
+    "sector": 147219,
+    "size": 33312
+  },
+  {
+    "filename": "TIME.TIM",
+    "sector": 147236,
+    "size": 2458
+  },
+  {
+    "filename": "T\\_DAI.TMD",
+    "sector": 147238,
+    "size": 4472
+  },
+  {
+    "filename": "T\\_TOGI.TIM",
+    "sector": 147241,
+    "size": 109376
+  },
+  {
+    "filename": "T\\_TOGI.TMD",
+    "sector": 147295,
+    "size": 26264
+  },
+  {
+    "filename": "WIN\\_LOSE.TMD",
+    "sector": 147308,
+    "size": 7012
+  },
+  {
+    "filename": "AN.TIM",
+    "sector": 147313,
+    "size": 33312
+  },
+  {
+    "filename": "BT.TIM",
+    "sector": 147330,
+    "size": 32544
+  },
+  {
+    "filename": "CAPV1.TIM",
+    "sector": 147346,
+    "size": 33312
+  },
+  {
+    "filename": "CAPV2.TIM",
+    "sector": 147363,
+    "size": 33312
+  },
+  {
+    "filename": "CAPV3.TIM",
+    "sector": 147380,
+    "size": 33312
+  },
+  {
+    "filename": "CAPV4.TIM",
+    "sector": 147397,
+    "size": 33312
+  },
+  {
+    "filename": "CAPVO.TIM",
+    "sector": 147414,
+    "size": 33312
+  },
+  {
+    "filename": "CO.TIM",
+    "sector": 147431,
+    "size": 33312
+  },
+  {
+    "filename": "DT.TIM",
+    "sector": 147448,
+    "size": 33312
+  },
+  {
+    "filename": "DY.TIM",
+    "sector": 147465,
+    "size": 33312
+  },
+  {
+    "filename": "FR.TIM",
+    "sector": 147482,
+    "size": 33312
+  },
+  {
+    "filename": "GP.TIM",
+    "sector": 147499,
+    "size": 33312
+  },
+  {
+    "filename": "GRADEA.TIM",
+    "sector": 147516,
+    "size": 33312
+  },
+  {
+    "filename": "GRADEB.TIM",
+    "sector": 147533,
+    "size": 33312
+  },
+  {
+    "filename": "GRADEC.TIM",
+    "sector": 147550,
+    "size": 33312
+  },
+  {
+    "filename": "GRADED.TIM",
+    "sector": 147567,
+    "size": 33312
+  },
+  {
+    "filename": "GRADER.TIM",
+    "sector": 147584,
+    "size": 33312
+  },
+  {
+    "filename": "GRADES.TIM",
+    "sector": 147601,
+    "size": 33312
+  },
+  {
+    "filename": "HU.TIM",
+    "sector": 147618,
+    "size": 33312
+  },
+  {
+    "filename": "MT.TIM",
+    "sector": 147635,
+    "size": 33312
+  },
+  {
+    "filename": "NT.TIM",
+    "sector": 147652,
+    "size": 33312
+  },
+  {
+    "filename": "TW.TIM",
+    "sector": 147669,
+    "size": 33312
+  },
+  {
+    "filename": "WI.TIM",
+    "sector": 147686,
+    "size": 33312
+  },
+  {
+    "filename": "BTL\\_REL.BIN",
+    "sector": 147703,
+    "size": 144540
+  },
+  {
+    "filename": "DGET\\_REL.BIN",
+    "sector": 147774,
+    "size": 5368
+  },
+  {
+    "filename": "DOO2\\_REL.BIN",
+    "sector": 147777,
+    "size": 46828
+  },
+  {
+    "filename": "DOOA\\_REL.BIN",
+    "sector": 147800,
+    "size": 30892
+  },
+  {
+    "filename": "EAB\\_REL.BIN",
+    "sector": 147816,
+    "size": 8276
+  },
+  {
+    "filename": "ENDI\\_REL.BIN",
+    "sector": 147821,
+    "size": 5428
+  },
+  {
+    "filename": "EVL\\_REL.BIN",
+    "sector": 147824,
+    "size": 36872
+  },
+  {
+    "filename": "FISH\\_REL.BIN",
+    "sector": 147843,
+    "size": 55660
+  },
+  {
+    "filename": "KAR\\_REL.BIN",
+    "sector": 147871,
+    "size": 66028
+  },
+  {
+    "filename": "MOV\\_REL.BIN",
+    "sector": 147904,
+    "size": 472104
+  },
+  {
+    "filename": "MURD\\_REL.BIN",
+    "sector": 148135,
+    "size": 10592
+  },
+  {
+    "filename": "SHOP\\_REL.BIN",
+    "sector": 148141,
+    "size": 32272
+  },
+  {
+    "filename": "STD\\_REL.BIN",
+    "sector": 148157,
+    "size": 185320
+  },
+  {
+    "filename": "TRN\\_REL.BIN",
+    "sector": 148248,
+    "size": 27604
+  },
+  {
+    "filename": "TRN2\\_REL.BIN",
+    "sector": 148262,
+    "size": 21696
+  },
+  {
+    "filename": "VS\\_REL.BIN",
+    "sector": 148273,
+    "size": 133000
+  },
+  {
+    "filename": "PSX.EXE",
+    "sector": 148338,
+    "size": 675840
+  },
+  {
+    "filename": "MMM.DAT",
+    "sector": 148668,
+    "size": 27648000
+  }
+]
