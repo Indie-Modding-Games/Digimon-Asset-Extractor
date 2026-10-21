@@ -1,12 +1,4 @@
-mod bin_parser;
-mod error;
-mod extractor;
-mod file_table;
-mod formats;
-mod verification;
-mod cli;
-
-use cli::{run, Cli};
+use dw_extract::{cli::{run, Cli}};
 use clap::Parser;
 
 fn main() {

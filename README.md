@@ -1,170 +1,75 @@
-# Digimon World Asset Extractor (dw-extract)
+# Digimon World Asset Extractor
 
-A standalone tool to extract assets from **Digimon World (USA) SLUS-01032** BIN/CUE disc images.
+`dw-extract` extrae archivos de la imagen BIN/CUE de **Digimon World (USA), SLUS-01032**. Incluye una CLI, una GUI y módulos Rust para inspeccionar o convertir algunos formatos del juego.
 
-Based on the file table from the [dw_decomp](https://github.com/jype0/dw_decomp) project.
+> La extracción de archivos ordinarios conserva los datos de usuario de sectores MODE2 Form 1. Las pistas STR se extraen como sectores crudos MODE2/2352 para conservar sus cabeceras y poder procesarlas con `convert-str`. Los conversores tienen distintos niveles de cobertura; consulta [Formatos](docs/reference/FORMATS.md) y [Revisión de integridad](docs/quality/INTEGRITY_REVIEW.md).
 
-## Features
+## Compilar
 
-- Extracts all game assets from BIN/CUE images (MODE2/2352 sectors)
-- Validates SLUS-01032 version via SYSTEM.CNF
-- Extracts key files: `CHDAT/ALLTIM.TIM` (texture archive), all 54 `.MMD` model files
-- Generates SHA256/MD5 manifest with format validation
-- Verifies extracted assets against manifest
-- Safe extraction: skips unchanged files, refuses to overwrite modified files without `--force`
-- Format validation for TIM (texture) and MMD (model) files
+Requisitos: Rust y Cargo instalados.
 
-## Installation
-
-### From Source (Rust)
-
-```bash
-git clone https://github.com/your-repo/dw-extract
-cd dw-extract
-cargo build --release
-# Binary at ./target/release/dw-extract.exe
+```powershell
+cargo build --release --bin dw-extract
+cargo build --release --bin dw-extract-gui
 ```
 
-### Pre-built Binary
+Los ejecutables se generan en `target/release/`. Para ejecutar desde el código:
 
-Download the latest release from the releases page.
-
-## Usage
-
-### Extract All Assets
-
-```bash
-dw-extract extract --bin "Digimon World (USA).bin" --cue "Digimon World (USA).cue" --output assets
+```powershell
+cargo run --bin dw-extract -- --help
+cargo run --bin dw-extract-gui
 ```
 
-### Extract Specific Files
+El paquete define varios binarios; incluye `--bin dw-extract` al usar `cargo run` para la CLI.
 
-```bash
-dw-extract extract-files --bin "Digimon World (USA).bin" --cue "Digimon World (USA).cue" --output assets AGUM.MMD AIRD.MMD CHDAT/ALLTIM.TIM
+## Uso rápido
+
+### Extraer todos los archivos
+
+```powershell
+dw-extract extract --bin game.bin --cue game.cue --output assets --manifest manifest.json
 ```
 
-### List Files in File Table
+La CLI comprueba la versión mediante `SYSTEM.CNF`, extrae los archivos enumerados en la tabla estadounidense integrada y genera hashes cuando se solicita un manifiesto. La extracción completa puede devolver código de salida distinto de cero si encuentra errores.
 
-```bash
-# All files
-dw-extract list
+### Extraer archivos concretos
 
-# Only MMD files
+```powershell
+dw-extract extract-files --bin "Digimon World.bin" --cue "Digimon World.cue" --output assets AGUM.MMD CHDAT/ALLTIM.TIM
+```
+
+La tabla actual contiene 818 entradas: 178 archivos MMD y 52 TIM. Consulta la [referencia de CLI](docs/reference/CLI.md) y sus notas sobre las opciones de validación.
+
+### Consultar la tabla integrada
+
+```powershell
+dw-extract info
 dw-extract list --mmd
-
-# Only TIM files
 dw-extract list --tim
 ```
 
-### Verify Extracted Assets
+### Abrir la interfaz gráfica
 
-```bash
-dw-extract verify --manifest manifest.json --assets assets
+```powershell
+dw-extract-gui
 ```
 
-### Show File Table Info
+La GUI permite seleccionar o arrastrar un par BIN/CUE, elegir extracción básica o completa, configurar la estructura de salida y ver el progreso. La GUI está enfocada en extraer archivos; las conversiones descritas en la CLI no aparecen como paneles de conversión.
 
-```bash
-dw-extract info
-```
+## Documentación del proyecto
 
-### Generate Manifest During Extraction
+- [Índice de documentación](docs/README.md): mapa de guías, referencias, arquitectura y planes.
+- [Guía de comandos](docs/reference/CLI.md): argumentos, ejemplos y limitaciones actuales.
+- [Arquitectura](docs/architecture/ARCHITECTURE.md): flujo BIN/CUE, módulos y responsabilidades.
+- [Formatos](docs/reference/FORMATS.md): diferencia entre extracción, módulos disponibles y conversión expuesta.
+- [Revisión de integridad](docs/quality/INTEGRITY_REVIEW.md): verificaciones ejecutadas y hallazgos que requieren atención.
+- [Plan de soporte de formatos](docs/planning/FORMAT_SUPPORT_PLAN.md): trabajo futuro, sujeto a su protocolo de ciclos y aprobación.
+- [Características](FEATURES.md): resumen compacto del estado observado.
 
-```bash
-dw-extract extract --bin "..." --cue "..." --output assets --manifest manifest.json
-```
+## Estado del proyecto
 
-## Command Reference
+El flujo de extracción BIN/CUE y varios lectores/conversores están implementados, pero la cobertura es desigual. En particular, los módulos MAP/OBJ y STR/MDEC tienen limitaciones que impiden interpretarlos como exportación final del mapa o como vídeo reproducible. La comparación contra hashes Redump no está conectada al flujo de extracción y las referencias actuales son marcadores. Lee la [revisión de integridad](docs/quality/INTEGRITY_REVIEW.md) para el detalle.
 
-### `extract`
-Extract all files from the disc image.
+## Licencia y datos del juego
 
-| Option | Description |
-|--------|-------------|
-| `--bin, -b` | Path to .bin file (required) |
-| `--cue, -c` | Path to .cue file (required) |
-| `--output, -o` | Output directory (default: `assets`) |
-| `--force` | Overwrite existing files even if modified |
-| `--no-verify` | Skip TIM/MMD format validation |
-| `--manifest` | Generate manifest JSON at specified path |
-
-### `extract-files`
-Extract specific files by name.
-
-| Option | Description |
-|--------|-------------|
-| `--bin, -b` | Path to .bin file (required) |
-| `--cue, -c` | Path to .cue file (required) |
-| `--output, -o` | Output directory (default: `assets`) |
-| `files` | File names to extract (required, space-separated) |
-| `--force` | Overwrite existing files even if modified |
-| `--no-verify` | Skip format validation |
-| `--manifest` | Generate manifest JSON |
-
-### `list`
-List files in the internal file table.
-
-| Option | Description |
-|--------|-------------|
-| `--mmd` | Show only MMD model files |
-| `--tim` | Show only TIM texture files |
-
-### `verify`
-Verify extracted assets against a manifest.
-
-| Option | Description |
-|--------|-------------|
-| `--manifest, -m` | Path to manifest JSON (required) |
-| `--assets, -a` | Assets directory (default: `assets`) |
-
-### `info`
-Show file table information and supported version.
-
-## Output Structure
-
-```
-assets/
-├── SYSTEM.CNF
-├── CARD.ALL
-├── CHDAT/
-│   └── ALLTIM.TIM
-├── AGUM.MMD
-├── AIRD.MMD
-├── ... (54 MMD files total)
-```
-
-## Supported Version
-
-- **SLUS-01032** (Digimon World USA) - Full support
-- Other versions (SLES, SLPS) - Rejected with clear error message
-
-## File Formats
-
-### TIM (Texture)
-- Validates header ID (0x10)
-- Checks BPP (4, 8, 16, 24)
-- Reports dimensions and CLUT presence
-
-### MMD (Model)
-- Validates TMD header ID ('TMD=')
-- Counts objects and detects embedded texture
-
-## Verification
-
-The tool generates a manifest with:
-- SHA256 and MD5 hashes for each file
-- File size
-- Format validation status
-- Verification status (Verified/Mismatch/NoReference)
-
-Currently uses embedded Redump references for SYSTEM.CNF and ALLTIM.TIM. Other files show "NoReference" status.
-
-## Notes
-
-- **EDC Mismatches**: The tool reports EDC checksum mismatches as warnings but continues extraction. The user data is still correctly extracted as verified by the `verify` command.
-- **Safe Extraction**: By default, the tool will not overwrite existing files that differ from the source. Use `--force` to override.
-- **Sector Format**: Handles MODE2/2352 XA sectors with Form 1 data (2048 bytes user data per sector).
-
-## License
-
-MIT
+El paquete declara licencia MIT. Este repositorio no reemplaza la necesidad de tener una copia legal de la imagen del juego. La tabla de archivos se basa en el proyecto [dw_decomp](https://github.com/jype0/dw_decomp).

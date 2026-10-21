@@ -95,6 +95,8 @@ mod tests {
         assert!(table.get("SYSTEM.CNF").is_some());
         assert!(table.get("ALLTIM.TIM").is_some());
         assert!(table.get("AGUM.MMD").is_some());
-        assert_eq!(table.mmd_files().len(), 54);
+        assert_eq!(table.mmd_files().len(), 178);
+        assert_eq!(table.tim_files().len(), 52);
+        assert_eq!(table.all_entries().count(), 818);
     }
 }

@@ -1,0 +1,59 @@
+# Extraction folder structure configuration
+# Maps file extensions to output subdirectories
+# Use empty string "" for root, or relative paths like "textures/"
+
+defaults:
+  # Default folder for extensions not explicitly listed
+  unknown: "other/"
+
+# Extension -> folder mapping (case-insensitive)
+extensions:
+  # System files
+  "cnf": "system/"
+  "exe": "system/"
+  "dat": "system/"
+
+  # Textures
+  "tim": "textures/"
+
+  # 3D Models
+  "mmd": "models/digimon/"
+  "tmd": "models/objects/"
+
+  # Maps (geometry + textures)
+  "map": "maps/"
+  "tfs": "maps/"
+
+  # Audio
+  "vhb": "audio/"
+  "efe": "audio/"
+
+  # Video/Streams
+  "str": "video/"
+
+  # Scripts/Scenes
+  "scn": "scripts/"
+  "atr": "scripts/"
+
+  # Memory/Save
+  "all": "memory/"
+
+  # Misc binary data
+  "bin": "data/"
+
+# Optional: Specific file overrides (takes precedence over extension)
+files:
+  "SYSTEM.CNF": "system/"
+  "ALLTIM.TIM": "textures/"
+  "EFEDAT.EFE": "audio/"
+  "PSX.EXE": "system/"
+  "CARD.ALL": "memory/"
+  "MMM.DAT": "system/"
+  "DG.SCN": "scripts/"
+  "MAPHEAD.SCN": "scripts/"
+
+# Optional: Flatten specific extensions (ignore subfolder, output to root)
+# flatten: ["cnf", "exe"]
+
+# Optional: Output root folder name (relative to --output)
+# root_folder: ""  # empty = use output dir directly

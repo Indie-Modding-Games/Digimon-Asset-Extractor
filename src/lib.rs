@@ -1,0 +1,9 @@
+pub mod bin_parser;
+pub mod cli;
+pub mod config;
+pub mod error;
+pub mod extractor;
+pub mod file_table;
+pub mod formats;
+pub mod gui;
+pub mod verification;

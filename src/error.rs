@@ -41,6 +41,9 @@ pub enum DwExtractError {
     #[error("Invalid MMD format: {0}")]
     InvalidMmd(String),
 
+    #[error("Invalid format: {0}")]
+    InvalidFormat(String),
+
     #[error("JSON error: {0}")]
     Json(#[from] serde_json::Error),
 
@@ -49,6 +52,9 @@ pub enum DwExtractError {
 
     #[error("Binrw error: {0}")]
     Binrw(#[from] binrw::Error),
+
+    #[error("YAML error: {0}")]
+    Yaml(#[from] serde_yaml::Error),
 
     #[error("Nom parse error: {0}")]
     Nom(String),

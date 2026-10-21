@@ -23,6 +23,15 @@ pub struct VagStream {
     pub data: Vec<u8>,
 }
 
+#[derive(Debug, Clone, Default, PartialEq, Eq)]
+pub struct DecodedSample {
+    pub pcm: Vec<i16>,
+    pub loop_info: Option<SampleLoop>,
+}
+
+/// A loop in a sample: playback goes back to `start` after the sample before `end`.
+pub use crate::formats::adpcm::AdpcmLoop as SampleLoop;
+
 #[derive(Debug, Clone)]
 pub struct VhbFile {
     pub streams: Vec<VagStream>,

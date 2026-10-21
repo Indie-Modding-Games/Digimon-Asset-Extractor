@@ -14,6 +14,9 @@ bytemuck = "1.15"
 byteorder = "1.5"
 clap = { version = "4.4", features = ["derive"] }
 crc = "3.0"
+chrono = { version = "0.4", features = ["serde"] }
+eframe = "0.29"
+rfd = "0.13"
 hex = "0.4"
 hound = "3.5"
 image = "0.25"
@@ -25,6 +28,7 @@ num-traits = "0.2"
 regex = "1.10"
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
+serde_yaml = "0.9"
 sha2 = "0.10"
 thiserror = "1.0"
 walkdir = "2.3"
@@ -35,10 +39,17 @@ codegen-units = 1
 panic = "abort"
 strip = true
 
+[dev-dependencies]
+tempfile = "3.8"
+
 [[bin]]
 name = "dw-extract"
 path = "src/main.rs"
 
 [[bin]]
 name = "parse-table"
-path = "parse_table.rs"
+path = "debug/parse_table.rs"
+
+[[bin]]
+name = "dw-extract-gui"
+path = "src/gui_main.rs"

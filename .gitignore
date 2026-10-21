@@ -31,3 +31,5 @@ Thumbs.db
 
 # Manifest files (generated)
 manifest.json
+# Local extraction corpus and generated samples
+/test_extract/
